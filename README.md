@@ -14,7 +14,7 @@ This tutorial is broken into four sections. Each section is designed to take abo
 ## Requirements
 * [Python 3](https://www.python.org/downloads/)
 * An Internet connection
-* Part 2 calls ssdeep.exe. If you are not using Windows, change for your OS.
+* Part 2 calls ssdeep.exe. If you are not using Windows, change for your OS. Usually you can just make sure ssdeep is in your PATH.
 
 ## Nice-to-haves
 * A text editor - like [Atom](https://atom.io/)

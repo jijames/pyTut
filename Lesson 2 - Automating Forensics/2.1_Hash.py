@@ -69,6 +69,56 @@ import os, sys
 #    else:
 #        print("No files found!")
 
+# Lets keep asking for files, and compare hashes
+# First, lets create a list to hold our hash values
+# We create it here so the variable is *in scope*
+# That means that the list can be accessed anywhere in
+# the loop, and exists even after the loop is finished.
+#hashes = []
+# Our while loop that will run forever (True is always True)
+#while True:
+    # Asking for a user input
+#    toHash = input("What file would you like to hash? (or exit) ")
+    # If the user types exit, then stop the loop and exit
+#    if toHash == "exit":
+        # "break" is used to stop a loop
+        # "continue" moves to the next iteration of the loop
+#        break
+#    else:
+#        if os.path.isfile(toHash):
+#            fhash = hashlib.md5(open(toHash, "rb").read()).hexdigest()
+            # Here we are checking if fhash is empty using "not"
+#            if not fhash:
+#                print("We could not hash the file " + toHash)
+#            else:
+#                print("MD5: " + fhash)
+                # Here we are checking if fhash is in the list using "in"
+                # This is basically a for loop over the list
+                # See notes below about "set"
+#                if fhash in hashes:
+#                    print("Hash found!")
+#                else:
+#                    print("Hash not found!")
+                    # If a new hash is found (not in the list) then
+                    # add the hash to the list with append
+#                    hashes.append(fhash)
+
+
+# fhash in hashes takes longer the more elements you haves
+# Instead, use sets which are much faster for many elemetns.
+# The usage is very similar, but with a few small differences.
+#hashes = set() # initlaize the set
+#inSet = fhash in hashes # Check if fhash is in the set.
+# If yes, inSet will be true or false.
+#hashes.add(fhash) # Add fhash to the set
+# Once a set is created, you can also use set operations.
+# For example, union, intersection and difference.
+
+# A faster method would be using a database, like SQLite
+# SQLite is out of the scope of this training.
+# https://docs.python.org/2/library/sqlite3.html
+
+
 # Lets call an external program and get it's result
 # Note: the command will be specific to the operating system
 # In this case, we want to create and compare fuzzy hashes with ssdeep
@@ -104,12 +154,13 @@ import subprocess
 #os.remove('f1.tmp')
 #os.remove('f2.tmp')
 
-# Assignment 2: To show the concepts we have been writing decode in order.
-# Convert this code to functions. Use arguments on the command line to
-# run different functions.
-# For example:
-#   hash.py md5 file -- should print the md5 sum of the file
-#   hash.py fuzzy file1 file2 -- should compare the two files similarity
+# Assignment 2:
+# 1. Save a known hash list to a file, and check new hashes against the file.
+# 2. Convert this code to functions.
+# 3. Use arguments on the command line to run different functions.
+#    For example:
+#       hash.py md5 file -- should print the md5 sum of the file
+#       hash.py fuzzy file1 file2 -- should compare the two files similarity
 
 # ------ Hint ------
 # Problem is that big files may not fit in memory!
