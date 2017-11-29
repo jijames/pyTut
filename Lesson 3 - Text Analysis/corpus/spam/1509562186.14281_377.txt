@@ -1,0 +1,20 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 19427 invoked from network); 31 Oct 2017 23:13:40 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 31 Oct 2017 23:13:40 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 31 Oct 2017 23:13:40 -0000
+Received: (qmail 9764 invoked from network); 31 Oct 2017 23:13:39 -0000
+Received: from unknown (HELO hmpuq.mpd) (103.236.182.24)
+  by zak.futurequest.net with SMTP; 31 Oct 2017 23:13:39 -0000
+Date: Wed, 1 Nov 2017 08:13:14 +0900 (JST)
+From: =?Shift_JIS?B?gWCDToNDg2KDTpP8i+CIxJPggWA=?= <xj8r@bb9r-ph7h.jp>
+To: bruce@bruce-guenter.dyndns.org
+Message-ID: <+HY7BRvh82j7A0xwGaOTUs-Ll>
+Subject: =?Shift_JIS?B?gWCDToNDg2KDTpP8i+CIxJPggWA=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+http://c64.9qj.sis-mhzma.jp/pggbyjb1aecwu6izq/14443508/m90695781699/435a1c1b839737dc869a48cc7855d194c2b4a85fcfa65ff8fceced7334d8739f

@@ -1,0 +1,21 @@
+Delivered-To: inquiries@untroubled.org
+Received: (fqmail 7740 invoked from network); 01 Nov 2017 04:27:07 -0000
+Received: from mx10.futurequest.net (mx10.futurequest.net [69.5.6.182])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 01 Nov 2017 04:27:07 -0000
+Received: (qmail 23528 invoked from network); 1 Nov 2017 04:27:07 -0000
+Received: from ACER3820TG ([139.192.57.107])
+  by mx10.futurequest.net ([69.5.6.182])
+  with ESMTP via TCP; 01 Nov 2017 04:27:06 -0000
+MIME-Version: 1.0
+From: "Zinaida" <Zinaidaxgarp@campo-research.com>
+To: inquiries@untroubled.org
+Date: Wed, 01 Nov 2017 11:27:05 +0700
+Subject: hello
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+SGVsbG8gYWdhaW4gLSB5b3UgZ2l2ZSBtZSBhbGwgdGhpcyB0aW1lIGRpZCBub3Qgd3JpdGUsIHlv
+dSBhcmUgZmVkIHVwIHdpdGggbWUgdG8gY29tbXVuaWNhdGUgLSBvciBqdXN0IGVtYWlsIGZvciBh
+IGxvbmcgdGltZT8NCldyaXRlIHRvIG1lISBJJ2QgYmUgaGFwcHkgdG8gdGFsayB0byB5b3UsIHlv
+dXIgWmluYWlkYSBmcm9tIFJ1c3NpYSEgTXkgZW1haWwgYW9yZWRpdGhAcmFtYmxlci5ydQ==

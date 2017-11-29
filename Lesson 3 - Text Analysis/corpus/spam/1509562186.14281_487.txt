@@ -1,0 +1,38 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 21692 invoked from network); 31 Oct 2017 23:42:49 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 31 Oct 2017 23:42:49 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 31 Oct 2017 23:42:49 -0000
+Received: (qmail 10699 invoked from network); 31 Oct 2017 23:42:48 -0000
+Received: from srv22704-92.obas-dns.com (HELO 15pqtalc.biz) (103.63.227.92)
+  by zak.futurequest.net with SMTP; 31 Oct 2017 23:42:48 -0000
+To: bruce@bruce-guenter.dyndns.org <bruce@bruce-guenter.dyndns.org>
+Subject: =?ISO-2022-JP?B?GyRCQ21KOEZiTUYzTkcnJWEhPCVrGyhC?=
+From: <9ich90186d@15pqtalc.biz>
+Content-type: text/plain; charset="iso-2022-JP"
+Content-transfer-encoding: 7bit
+Mime-version: 1.0
+Date: Wed,  1 Nov 2017 08:42:42 +0900
+
+この度は、当店をご利用いただきまして誠に有難う御座います。
+
+お客様のご注文を下記の内容で承りましたのでご連絡を申し上げます。
+ご不明な点ご質問等ございましたら、お気軽にお問合せ下さいますようお願い申し上げます。
+
+■ご注文内容--------
+・ご注文番号 WST5kk50
+・ご注文日時 11月01日8時40分
+・商品お届先 ****************
+
+下記ページより注文内容が確認できます。
+
+【注文確認ページ】
+http://15pqtalc.biz/d753e8d8ad4a926f_i5/c6c27a9a13be4a57_1207
+
+
+
+※メールマガジンの配送停止をご希望される場合はこちら
+663f5b60cf77b138ef89e4a72f483666@15pqtalc.biz
+

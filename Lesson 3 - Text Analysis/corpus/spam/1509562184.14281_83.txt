@@ -1,0 +1,23 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 5461 invoked from network); 31 Oct 2017 16:57:17 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 31 Oct 2017 16:57:17 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 31 Oct 2017 16:57:17 -0000
+Received: (qmail 1668 invoked from network); 31 Oct 2017 16:57:16 -0000
+Received: from srv22401-117.obas-dns.com (HELO mqr1i9vq.top) (103.63.224.117)
+  by zak.futurequest.net with SMTP; 31 Oct 2017 16:57:16 -0000
+To: bruce@bruce-guenter.dyndns.org <bruce@bruce-guenter.dyndns.org>
+Subject: =?ISO-2022-JP?B?GyRCTDVCahsoQg==?=
+From: <2rui7jsi5c@mqr1i9vq.top>
+Content-type: text/plain; charset="iso-2022-JP"
+Content-transfer-encoding: 7bit
+Mime-version: 1.0
+Date: Wed,  1 Nov 2017 01:57:06 +0900
+
+※ウィルス検出により削除されました。
+下記のURLはウィルス感染の可能性が有りますので、絶対に開かないでください。
+
+http://mqr1i9vq.top/22e06deda5380ec6_5mu/13dbe9aaf0921824_5m5zj
+

@@ -1,0 +1,22 @@
+Delivered-To: bruceg@untroubled.org
+Received: (fqmail 32618 invoked from network); 01 Nov 2017 08:55:47 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by 10.170.1.183 ([10.170.1.183])
+  with FQDP via TCP; 01 Nov 2017 08:55:47 -0000
+Received: (qmail 10284 invoked from network); 1 Nov 2017 08:55:47 -0000
+Received: from [91.107.180.222] ([91.107.180.222])
+  by mx06.futurequest.net ([69.5.6.177])
+  with ESMTP via TCP; 01 Nov 2017 08:55:47 -0000
+MIME-Version: 1.0
+From: "Barbara" <Barbararcy@mocciaro.eu>
+To: bruceg@untroubled.org
+Date: Wed, 01 Nov 2017 12:25:45 +0430
+Subject: hello
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+SGVsbG8gYWdhaW4gLSB5b3UgZ2l2ZSBtZSBhbGwgdGhpcyB0aW1lIGRpZCBub3Qgd3JpdGUsIHlv
+dSBhcmUgZmVkIHVwIHdpdGggbWUgdG8gY29tbXVuaWNhdGUgLSBvciBqdXN0IGVtYWlsIGZvciBh
+IGxvbmcgdGltZT8NCldyaXRlIHRvIG1lISBJJ2QgYmUgaGFwcHkgdG8gdGFsayB0byB5b3UsIHlv
+dXIgQmFyYmFyYSBmcm9tIFJ1c3NpYSEgTXkgZW1haWwgdGVyZXphNTk2aWxzZUByYW1ibGVyLnJ1
+

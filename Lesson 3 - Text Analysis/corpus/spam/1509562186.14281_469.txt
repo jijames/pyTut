@@ -1,0 +1,26 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 13327 invoked from network); 31 Oct 2017 01:41:35 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 31 Oct 2017 01:41:35 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 31 Oct 2017 01:41:35 -0000
+Received: (qmail 19924 invoked from network); 31 Oct 2017 01:41:34 -0000
+Received: from static-ip-192-193-113-114.globalhk.biz (HELO re08.leadx.link) (114.113.193.192)
+  by zak.futurequest.net with SMTP; 31 Oct 2017 01:41:34 -0000
+Received: from zsankuraimedai.com (unknown [103.241.16.33])
+	by re08.leadx.link (Postfix) with ESMTP id EA4D82028B7
+	for <bruce@bruce-guenter.dyndns.org>; Tue, 31 Oct 2017 10:41:33 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCMjYkQCRoGyhC?= <mail@zsankuraimedai.com>
+To: bruce@bruce-guenter.dyndns.org
+Message-ID: <780594672.9158435.1509414093856.JavaMail.info@zsankuraimedai.com>
+Subject: =?ISO-2022-JP?B?GyRCQj4kTiU1JSQlSDtIJEMkRiQ/JGgkTSEpISkbKEI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+
+http://pxqvx.zsankuraimedai.com/as/member/message/Message-reply.html?pp=OTY5HbojjqMs3odTVA-SeA==&message_id=1980580706
+
+
+

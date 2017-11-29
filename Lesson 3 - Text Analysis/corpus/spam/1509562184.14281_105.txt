@@ -1,0 +1,79 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 13102 invoked from network); 01 Nov 2017 12:59:36 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by 10.170.1.196 ([10.170.1.196])
+  with FQDP via TCP; 01 Nov 2017 12:59:36 -0000
+Received: (qmail 16726 invoked from network); 1 Nov 2017 12:59:36 -0000
+Received: from dsxnr.trade (dsxnr.trade [70.36.121.218])
+  by mx06.futurequest.net ([69.5.6.177])
+  with ESMTP via TCP; 01 Nov 2017 12:59:36 -0000
+Date: Wed, 01 Nov 2017 05:42:48 -0700
+To: <bruce@untroubled.org>
+Message-ID: <f8f706c3938feec43d1f111ad3c0a047.7389085.7253459@dsxnr.trade>
+Content-Type: html/text; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+From: CVS Member Newsletter <cvs.november.newsletter@dsxnr.trade>
+Mime-Version: 1.0
+Subject: See how to claim your $50-CVS Reward to use online or in stores. (Details Inside)
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>907</title>
+</head>
+<body>
+
+<table style="width: 600px;" border="0" cellspacing="0" cellpadding="5" align="center">
+<tbody>
+<tr>
+<td colspan="2">
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="color: #ff0000;"><span style="font-size: 40pt;">cvs</span> <span style="font-size: 24pt;">pharmacy</span></span></strong></span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><em><span style="color: #ff0000;">Wellness Newsletter</span></em> <span style="color: #ff0000;">|</span> <em><span style="color: #ff0000;">November 2017</span></em></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2"><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="font-size: large;">Take a Closer Look at Your CVS Rewards Program</span></strong></span></td>
+</tr>
+<tr style="background-color: #fa1c04;">
+<td><span style="color: #ffffff; font-family: arial, helvetica, sans-serif;">CVS in the News</span></td>
+<td><span style="color: #ffffff; font-family: arial, helvetica, sans-serif;">CVS Gift Card Program</span></td>
+</tr>
+<tr>
+<td colspan="2"><span style="font-family: arial, helvetica, sans-serif;"> </span></td>
+</tr>
+<tr>
+<td style="width: 300px;" align="left" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: medium;"><strong>Welcome to Our New CVS savings & rewards program.</strong></span></p>
+<p><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Since launching our CVS Rewards Program, we've added a number of new and innovative ways members can earn more reward points. </span></p>
+<p><span style="font-size: 11pt; font-family: arial, helvetica, sans-serif;">Explore <a href="http://sheet.dsxnr.trade/cvs-reward">Current Rewards Promotion.</a></span></p>
+</td>
+<td style="width: 300px;" rowspan="3" align="left" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;"> <strong><span style="font-size: medium;">Congratulations CVS Shopper!</span></strong></span></p>
+<p><span style="font-size: small; font-family: arial, helvetica, sans-serif;">You have been selected to<br /><a href="http://sheet.dsxnr.trade/cvs-reward">receive a complimentary reward!</a></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Click <a href="http://sheet.dsxnr.trade/cvs-reward">Here</a> or on the Gift Card below to claim<br /> your $50 Reward!</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">  </span><a style="font-family: arial, helvetica, sans-serif;" href="http://sheet.dsxnr.trade/cvs-reward"><img src="http://sheet.dsxnr.trade/photo6" alt="CVS $50 Gift Card" width="200" height="131" /></a></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><a class="noPop">This offer is available today only:<br />November 1, 2017</a></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 300px;" align="left" valign="top"><span style="font-family: arial, helvetica, sans-serif;"> </span></td>
+</tr>
+<tr>
+<td style="width: 300px; height: 200px;" align="left" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="font-size: medium;">Receive Your $50 Reward</span></strong><br /></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Scan your card before you shop to receive exclusive offers, exclusive coupons and Member Rewards, free "CVS-Bucks" you can use right away on most items in our store.</span></p>
+<p><br /><span style="font-family: arial, helvetica, sans-serif; font-size: medium;"><strong>Maximize Savings with Your CVS Reward Card</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;">In our stores and online, CVS Rewards members can save and earn rewards on nearly everything they buy - from household goods and beauty products, to gifts for family and friends, as well as health products and prescriptions.</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 600px;" colspan="2" align="center" valign="top"><span style="font-family: arial, helvetica, sans-serif;"><br /><br /><br /><br /><br /><br /><br /><a href="http://sheet.dsxnr.trade/optoff"><img src="http://sheet.dsxnr.trade/unsubimage" alt="" width="237" height="48" /></a> </span></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

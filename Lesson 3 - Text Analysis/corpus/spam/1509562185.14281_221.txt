@@ -1,0 +1,34 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 3113 invoked from network); 1 Nov 2017 02:42:53 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Nov 2017 02:42:53 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Nov 2017 02:42:53 -0000
+Received: (qmail 16233 invoked from network); 1 Nov 2017 02:42:52 -0000
+Received: from srv06-97.tax-richjp.net (HELO op9rnbt0.top) (45.119.165.97)
+  by zak.futurequest.net with SMTP; 1 Nov 2017 02:42:52 -0000
+To: bruce@bruce-guenter.dyndns.org <bruce@bruce-guenter.dyndns.org>
+Subject: =?ISO-2022-JP?B?IzUwMDAbJEI2WzVeGyhCKBskQiVqJTMhPCVrJE44ZkNOJGkkOxsoQik=?=
+From: <r8rw9gf6ez5@op9rnbt0.top>
+Content-type: text/plain; charset="iso-2022-JP"
+Content-transfer-encoding: 7bit
+Mime-version: 1.0
+Date: Wed,  1 Nov 2017 11:42:47 +0900
+
+お客様のご利用端末がリコールの対象になってる可能性が御座います。
+
+【不具合の内容】
+・電源不良(帯熱の可能性有)
+・電波障害
+・妨害電波干渉
+etc...
+
+以下から実際の対象機種が確認可能となっております。
+http://op9rnbt0.top/740d560d7f1c0676_5/d7ff7af8d0adf43f_zwzzy
+
+
+
+※メールマガジンの配送停止をご希望される場合はこちら
+663f5b60cf77b138ef89e4a72f483666@op9rnbt0.top
+

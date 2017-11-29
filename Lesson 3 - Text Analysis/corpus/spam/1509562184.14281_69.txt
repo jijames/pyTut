@@ -1,0 +1,42 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 22016 invoked from network); 1 Nov 2017 15:11:52 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Nov 2017 15:11:52 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Nov 2017 15:11:52 -0000
+Received: (qmail 26967 invoked from network); 1 Nov 2017 15:11:51 -0000
+Received: from qhlt.host208.bou4852.com (103.4.76.77)
+  by zak.futurequest.net with SMTP; 1 Nov 2017 15:11:51 -0000
+Received: from localhost (unknown [103.79.92.47])
+	by bzxq.host208.bou4852.com (Postfix) with ESMTP id A8D333F452
+	for <bruce@bruce-guenter.dyndns.org>; Thu,  2 Nov 2017 00:11:50 +0900 (JST)
+Date: Thu, 02 Nov 2017 00:11:50 +0900
+MIME-Version: 1.0
+From: lovemail@0bn7ak1p976ppkz.biz
+To: bruce@bruce-guenter.dyndns.org
+Message-Id: 73913609_890350159f80cdb6a9c8@0bn7ak1p976ppkz.biz
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCPXc8UkQ5JE4kIiRpJGwkYiRKJC9NcCRsJGs7USRyOCskPyQvJE8kIiRqJF4kOyRzJCshKRsoQg==?=
+
+gXn44oF6g0mDdINCg1iCxZeQguqLtoKkg0eDjY7QkrcgDQpodHRwOi8vemJwcW11OXJnaXFxdDVl
+LmJpei8lN2V2Yy9wYWdlL1BDOjg4NzI3Mzg1OWY4MGNkYjY4ZTEzL0lDOmdoSncwcXBhakxGbVQ3
+cnVTMVVCL0lQOk1qa3kvP2d1aWQ9T04gDQogDQqOhILMg0mDdINCg1iCyZeIgtyCuYLxgqmBSCAN
+Co9aj4qC8JGXguqCzpeIgsSCooK9gr6Cr4LcgreC5oLLgUggDQqOhILMg0mDdINCg1iCxYFBgqKC
+4oLngrWCrZeQguqC6Y6EgvCMqYLEgq2CvoKzgqKBQiANCoK7grWCxI2cgsyQkYLcgsWCtYLhgtSC
+6ILCgq2CtYLEl36CtYKigUIgDQogDQqO0JK3gUaBdZLWgXaCzJazl7+DdoONg3QgDQpodHRwOi8v
+emJwcW11OXJnaXFxdDVlLmJpei8lN2V2Yy9wYWdlL1BDOjg4NzI3Mzg1OWY4MGNkYjY4ZTEzL0lD
+OmdoSncwcXBhakxGbVQ3cnVTMVVCL0lQOk5Uaz0vP2d1aWQ9T04gDQogDQqO0JK3gUaBdZLWgXaC
+1pXUkE0gDQpodHRwOi8vemJwcW11OXJnaXFxdDVlLmJpei8lN2V2Yy9wYWdlL1BDOjg4NzI3Mzg1
+OWY4MGNkYjY4ZTEzL0lDOmdoSncwcXBhakxGbVQ3cnVTMVVCL0lQOk5qQT0vP2d1aWQ9T04gDQog
+DQqBeTEwMDCJfpZ7ie+I9ZNvmF6BeiANCmh0dHA6Ly96YnBxbXU5cmdpcXF0NWUuYml6LyU3ZXZj
+L3BhZ2UvUEM6ODg3MjczODU5ZjgwY2RiNjhlMTMvSUM6Z2hKdzBxcGFqTEZtVDdydVMxVUIvSVA6
+TWpreC8/Z3VpZD1PTiANCiANCoGkg3yDQ4OTg2eNd5P8gaQgDQpodHRwOi8vemJwcW11OXJnaXFx
+dDVlLmJpei8lN2V2Yy9wb2ludC9QQzo4ODcyNzM4NTlmODBjZGI2OGUxMy9JQzpnaEp3MHFwYWpM
+Rm1UN3J1UzFVQi8/Z3VpZD1PTiANCiANCoGkVE9Qg3mBW4NXgaQgDQpodHRwOi8vemJwcW11OXJn
+aXFxdDVlLmJpei8lN2V2Yy9teXBhZ2UvUEM6ODg3MjczODU5ZjgwY2RiNjhlMTMvSUM6Z2hKdzBx
+cGFqTEZtVDdydVMxVUIvP2d1aWQ9T04gDQogDQqR3onvgs2DUoNgg4kgDQpodHRwOi8vemJwcW11
+OXJnaXFxdDVlLmJpei8lN2V2Yy9yZXNpZ24vUEM6ODg3MjczODU5ZjgwY2RiNjhlMTMvSUM6Z2hK
+dzBxcGFqTEZtVDdydVMxVUIvP2d1aWQ9T04gDQo=
+

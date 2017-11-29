@@ -1,0 +1,103 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 14689 invoked from network); 30 Oct 2017 21:05:59 -0000
+Received: from mx16.futurequest.net (mx16.futurequest.net [69.5.6.192])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 30 Oct 2017 21:05:59 -0000
+Received: (qmail 23998 invoked from network); 30 Oct 2017 21:05:59 -0000
+Received: from remind.bccbdc.trade (198-23-158-148-host.colocrossing.com [198.23.158.148])
+  by mx16.futurequest.net ([69.5.6.192])
+  with ESMTP via TCP; 30 Oct 2017 21:05:59 -0000
+Date: Mon, 30 Oct 2017 13:55:25 -0700
+Content-Transfer-Encoding: 8bit
+Subject: Your $50 Walmart eGift Card is Here!
+To: <bruce@untroubled.org>
+From: Jennifer K.|Walmart <cindy_w@remind.bccbdc.trade>
+Message-ID: <365546417993784-f8f706c3938feec43d1f111ad3c0a047@remind.bccbdc.trade>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="3655464_17993784_3655464"
+
+
+--3655464_17993784_3655464
+Content-Type: text/plain
+
+Congratulations Walmart Shopper!
+
+Thank you for being a valued Walmart Shopper.
+
+You were selected to review a product and receive a $50 Walmart Gift Card.
+Your feedback helps Walmart customers choose products with confidence.
+It's an easy! You are just one click away from activating your Gift Card.
+
+Start Here to Claim Your $50 Reward:  http://www.bccbdc.trade/17993784/walmartcard/f8f706c3938feec43d1f111ad3c0a047/?trop1030
+
+Thank you for shopping at Walmart, we appreciate your feedback.
+
+--------------------------------------------------------------------
+Note: Only one reward per customer. You must registered with the email address listed below. Offer expires 10/31/17.
+
+This Message is intended for: bruce@untroubled.org
+
+WAL50GC: 3655464
+
+
+
+As an expert of middle-eastern food, I would say that I had one of the best Falafel in this place. Each \"ball\" of falafel was perfectly balanced, smoothly... This is a wonderful combination of local flavors with innovative culinary experience. This is a most to see as beyond quality of food they offer to see the... Great food, excellent service and certainly the best pasta that I have tasted so far. Please make sure to make an early reservation since the place is very... If you want authentic 100 percent Nicaraguan cuisine or are looking for a place to try something different on the island, this is the place for you. Located... Alrighty then, this is one of my favorite restaurants in Caguas. This place has some of the best Puerto Rican dishes ever. I absolutely love their Arroz... Wow! Arrived and San Juan and asked immediately where to eat good Criollo food. Was recommended to this place and it was excellent and full of sabor! Holy moly, Batman....fan-freaking-tastic!  One of the best experiences -- and products -- in my (several) trips to Puerto Rico.....The Sangria Factory is... Excellent Mexican food for small town North Dakota. I'm from Texas where we're knownf8f706c3938feec43d1f111ad3c0a047
+
+--3655464_17993784_3655464
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<table width="700" align="center">
+
+<tr><td align="center">
+
+     <p><span style="font-family: Arial, Helvetica, sans-serif; font-size:52px; font-weight: bolder; color: #017dc7;">Walmart<br><span style="font-size:20px";>Save money. Live better.</span></span></p>
+
+     <p style="width: 585px; height: 15px; background-color: #fdc122"></p>
+
+     <p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: normal; color: #000000;">Congratulations Walmart Shopper!</span></p>
+     
+     <p><a style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-style: normal; line-height: normal; text-transform: capitalize; font-weight: bolder; font-variant-ligatures: normal; font-variant-caps: normal; color: #017dc7; text-decoration: underline blink;" href="http://www.bccbdc.trade/17993784/walmartcard/f8f706c3938feec43d1f111ad3c0a047/?trop1030"><img src="http://develop.bccbdc.trade/mainpic8" alt="[Walmart Gift Card]" width="325" height="212" /></a></p>
+
+     <p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal; color: #000000;">Thank you for being a valued Walmart Shopper.</span></p>
+
+     <p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal; color: #000000;">You were selected to review a product and receive a $50 Walmart Gift Card.</span></p>
+
+     <p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal; color: #000000;">Your feedback helps Walmart customers choose products with confidence.</span></p> 
+
+     <p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal; color: #000000;">It's an easy! You are just one click away from activating your Gift Card.</span></p> 
+     <br>
+     
+     <a style="font-family: Open Sans, sans-serif; font-size: 22px; color: #000000; padding: 14px 100px; background-color: #fdc122; border-radius: 10px;" href="http://www.bccbdc.trade/17993784/walmartcard/f8f706c3938feec43d1f111ad3c0a047/?trop1030"><b>Start Here</b></a>
+     <br><br>
+     
+     <p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal; color: #000000;">Thank you for shopping at Walmart, we appreciate your feedback. </span></p>
+</td></tr>
+
+<tr>
+     <td style="width: 585px; height: 15px; background-color: #017dc7"></td>
+</tr>
+
+<tr><td>
+     <p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #000000;">Note: Only one reward per customer. You must registered with the email address listed below. Offer expires 10/31/17.</span></p>
+     <p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #000000;">This Message is intended for: bruce@untroubled.org</span></p>
+     <p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #000000;">WAL50GC: 3655464</span></p>
+    
+</td></tr>
+
+<tr><td align="center">
+<br /><br /><br />
+<p><a href="http://www.bccbdc.trade/3655464/unsub/f8f706c3938feec43d1f111ad3c0a047"><img src="http://develop.bccbdc.trade/unsubmain21" alt="f8f706c3938feec43d1f111ad3c0a047" /></a></p>
+<p style="visibility:hidden; "><br><br><br><br><br><br><br><span style="font-family: verdana, geneva; font-size: 8px; font-weight: bold; vertical-align: top; text-align: left;">As an expert of middle-eastern food, I would say that I had one of the best Falafel in this place. Each \"ball\" of falafel was perfectly balanced, smoothly... This is a wonderful combination of local flavors with innovative culinary experience. This is a most to see as beyond quality of food they offer to see the... Great food, excellent service and certainly the best pasta that I have tasted so far. Please make sure to make an early reservation since the place is very... If you want authentic 100 percent Nicaraguan cuisine or are looking for a place to try something different on the island, this is the place for you. Located... Alrighty then, this is one of my favorite restaurants in Caguas. This place has some of the best Puerto Rican dishes ever. I absolutely love their Arroz... Wow! Arrived and San Juan and asked immediately where to eat good Criollo food. Was recommended to this place and it was excellent and full of sabor! Holy moly, Batman....fan-freaking-tastic!  One of the best experiences -- and products -- in my (several) trips to Puerto Rico.....The Sangria Factory is... Excellent Mexican food for small town North Dakota. I'm from Texas where we're known for TexMex but right here in Wahpeton is some of the best I've ever eaten The food here was phenomenal. Had a burger and the rest of my table had either burgers or sandwiches. Portions were great the burgers are huge actually I... Good service. Friendly.  Good diner food. Breakfasts  are good. Basic cafe atmospheres. Alot of locals eat here. Very good.  Salad bar was great, pizza was plentiful with a wide variety.  They will even make a pizza of your own choice. The wife and I absolutely love this place. Excellent food and fantastic service. I'm a steak lover and every one I've eaten here has been tender and cooked... This place has been around since the 70s when it was called the Country Kitchen. I was surprised by their mouth watering, extensive menu and delicious home... Since the cafe closed, there wasn't a place to get a good sit down breakfast...until now. October 1 david and jodi wyman took over and they have delicious... Had to pit stop in Albany and found this place for dinner. First, great craft draft selection (Petrus on tap!) Cheese selections for cheese board were top... Full disclosure: I am an immigrant, born in Moscow, arrived in the US in 1979 at the age of 20. So my opinion may be a bit biased. But I LOVED the food that... Decent food, good beer selection, but the free pizza thing is odd... and service has never been quicker than molasses.....Well, I guess if I was really into... This was our second visit to Umana, this month and it is quickly becoming a new favorite. The service is very warm and friendly. It's like visiting family... Really enjoyable experience for my girlfriend and I. We started of with a couple cocktails that were very good and the pretzael with mustard that was... Loved my experience here last night. We went with a friend that lives just down the street and is a regular customer. ....The service was fantastic, friendly... Seeking dinner near downtown Albany, Ama Cocina seemed like a good bet. Mexican food is among my favorite and the menu here looked really interesting! There... The Savoy Taproom was a great dining experience.....The steamed clams were generous in portions and a bargain at $9. I've never had strip steak coated with... Finally got a chance to check out Yono's when a nearly expired Groupon fell into my lap. The small restaurant's ambiance was beautiful and we were serenaded...f8f706c3938feec43d1f111ad3c0a047</span></p>
+</td></tr>
+</table>
+<img src="http://develop.bccbdc.trade/pixel20/?email=bruce@untroubled.org&sid=delivs" alt="" />
+</body>
+</html>
+--3655464_17993784_3655464--

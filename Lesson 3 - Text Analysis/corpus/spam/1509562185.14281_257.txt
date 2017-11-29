@@ -1,0 +1,32 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 22743 invoked from network); 30 Oct 2017 17:36:05 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 30 Oct 2017 17:36:05 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 30 Oct 2017 17:36:05 -0000
+Received: (qmail 7157 invoked from network); 30 Oct 2017 17:36:04 -0000
+Received: from ec2-35-162-133-249.us-west-2.compute.amazonaws.com (HELO iissakbgttzd.ufbt) (35.162.133.249)
+  by zak.futurequest.net with SMTP; 30 Oct 2017 17:36:04 -0000
+Date: Tue, 31 Oct 2017 02:25:47 +0900 (JST)
+From: =?Shift_JIS?B?i+KNc47miPiIxJPgLg==?= <info@d1y15-a0p.com>
+To: bruce@bruce-guenter.dyndns.org
+Message-ID: <1598422721.1168766.1509384347594.JavaMail.return-1122800470@d1y15-a0p.com>
+Subject: =?Shift_JIS?B?i+KNc4KpguePZJd2gsiCqJJtgueCuQ==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+いつもご利用頂き、誠にありがとうございます。
+
+あなた様の口座に不正なアクセスがあった可能性があります。
+大至急下記よりご確認をお願いします。
+
+確認はｺﾁﾗ▼
+http://2xscb.d1y15-a0p.com/6sipisgwu5zhdfgh372cc/237373/skelink/76e62de2a18e0f8b782bd013bb5a51261a028a8f648f30f594ca313e097095ca
+
+※不正な振込やお引き出しが行われる可能性がありますので、至急ご確認をお願いします。
+安全にご利用頂く為にも、ご協力をお願いします。
+
+
+全国銀行取引案内

@@ -1,0 +1,444 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 10946 invoked from network); 30 Oct 2017 17:47:52 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 30 Oct 2017 17:47:52 -0000
+Received: (qmail 14902 invoked from network); 30 Oct 2017 17:47:51 -0000
+Received: from news15.flameworlds.com (news15.flameworlds.com [103.58.147.144])
+  by mx04.futurequest.net ([69.5.6.175])
+  with ESMTP via TCP; 30 Oct 2017 17:47:51 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=ddlsec.com;
+ h=Date:To:From:Reply-to:Subject:Message-ID:List-Unsubscribe:MIME-Version:Content-Transfer-Encoding:Content-Type; i=mail@ddlsec.com;
+ bh=Bh6L702+//H0BOhNHjR1+IZCE2o=;
+ b=qfCWrATmDN8XmJ0VO0h0BsKhOdF6jArl3hhyhsLcNNrCS1+tJruoRgGuA0tblmormpnM7trszwr5
+   Ik9uCzME4XjRROCR1/9xayQrUWfjji1HLcs1GYf8hNJGHnA4540chmO9ZaNsDrQDWNp2e+12jd3+
+   FIJ6K1gN964av0FCPCU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=fifflo.com;
+ b=jNtwtV6J+jf2Ed9iKdiBLpTy4dwH/GW91LtHP6C0MG/0qU1Lmq73X6FADcH4Tx7Wy5yHfXHMJVHV
+   CvaGDAjryPE6+XXO3DY3lNQlpMGzlDGT8OWD2z2CAJszevBnjqaS478Z6quCsDWTrX8RKezvVJAZ
+   MNB0i6x51KZoigwdQrQ=;
+Date: Tue, 31 Oct 2017 01:48:18 +0800
+Return-Path: bounce-440480-20083640-137540-248@fifflo.com
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+From: Canada Goose <mail@fifflo.com>
+Reply-to: Canada Goose <mail@fifflo.com>
+Subject: CANADA GOOSE Halloween Sale, Up to 70 Off! Only 2 days Left!
+Message-ID: <af350c1bedf182141ad8fd1103256bcb@localhost.localdomain>
+X-Priority: 3
+X-Mailer: Email Sending System
+X-Complaints-To: mail@fifflo.com
+List-Unsubscribe: <http://www.ddlsec.com/u.php?p=2fr/rs/24qh/1ai/29c/rs>
+X-MessageID: MjE1OXx8fHw5ODQ0OXx8fHxicnVjZUB1bnRyb3VibGVkLm9yZ3x8fHw2NzR8fHx8MXx8fHww
+X-Report-Abuse: <http://www.ddlsec.com/report_abuse.php?mid=MjE1OXx8fHw5ODQ0OXx8fHxicnVjZUB1bnRyb3VibGVkLm9yZ3x8fHw2NzR8fHx8MXx8fHww>
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<body style=3D"MARGIN: 0px">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#000" st=
+yle=3D"width: 100%;">
+<tr>
+<td>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" st=
+yle=3D"width: 100%; height: 54px;">
+<tr>
+<td width=3D"250" align=3D"middle"><a href=3D"http://www.ddlsec.com/tl.php?=
+p=3D2fr/29c/rs/24qh/1ai/rs//http%3A%2F%2Fwww.zzzoffer.com%2Fgoo-en.php"><im=
+g border=3D"0" alt=3D"Free Shipping" src=3D"http://www.zzzoffer.com/g211/lo=
+go-20171026-3.png" width=3D"116" height=3D"54" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#000" height=3D"1"></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#000" st=
+yle=3D"width: 100%;">
+<tr>
+<td height=3D"20" width=3D"100%"></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#fd6401"=
+ style=3D"width: 100%;">
+<tr>
+<td>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" st=
+yle=3D"width: 100%;">
+<tr>
+<td width=3D"600" align=3D"middle"><a href=3D"http://www.ddlsec.com/tl.php?=
+p=3D2fr/29c/rs/24qh/1ai/rs//http%3A%2F%2Fwww.zzzoffer.com%2Fgoo-en.php" tar=
+get=3D"_blank"><img border=3D"0" alt=3D"Canada Goose  up to 70% off" src=3D=
+"http://www.zzzoffer.com/g211/bnr_header-20171026-3.jpg" width=3D"600" heig=
+ht=3D"320" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#fd6401"=
+ style=3D"width: 100%;">
+<tr>
+<td height=3D"2" width=3D"100%"></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#f0edec"=
+ style=3D"width: 100%;">
+<tr>
+<td width=3D"600" align=3D"middle">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#ffffff"=
+ align=3D"center" style=3D"width: 600px; height: 90px;">
+<tr>
+<td width=3D"420">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" st=
+yle=3D"width: 380px;">
+<tr>
+<td style=3D"PADDING-BOTTOM: 18px; LINE-HEIGHT: 18px; PADDING-LEFT: 0px; PA=
+DDING-RIGHT: 0px; FONT-FAMILY: arial,tahoma,verdana; COLOR: #6f7675; FONT-S=
+IZE: 12px; PADDING-TOP: 18px" align=3D"left">With humble beginnings in 1950=
+s Toronto, Canada Goose has become one of the world&rsquo;s leading innovat=
+ors in extreme outdoor clothing. A practical and essential cold weather sta=
+ple, the brand&rsquo;s signature down-filled parka jackets and coats have b=
+ecome somewhat of a style statement, seen everywhere from ski slopes to glo=
+bal fashion capitals.</td>
+</tr>
+</table>
+</td>
+<td style=3D"PADDING-TOP: 26px" valign=3D"top" width=3D"180">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#fd6401"=
+ align=3D"center" style=3D"width: 140px;">
+<tr>
+<td style=3D"PADDING-BOTTOM: 10px; FONT-STYLE: italic; PADDING-LEFT: 10px; =
+PADDING-RIGHT: 10px; FONT-FAMILY: georgia,arial,serif; FONT-SIZE: 17px; PAD=
+DING-TOP: 10px" align=3D"middle">
+<div><a style=3D"COLOR: #212121; TEXT-DECORATION: none" href=3D"http://www.=
+ddlsec.com/tl.php?p=3D2fr/29c/rs/24qh/1ai/rs//http%3A%2F%2Fwww.zzzoffer.com=
+%2Fgoo-en.php" target=3D"_blank">Visit Shop</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#ffffff"=
+ align=3D"center" style=3D"width: 600px;">
+<tr>
+<td bgcolor=3D"#ebebeb" height=3D"1" colspan=3D"2"></td>
+</tr>
+<tr>
+<td style=3D"PADDING-BOTTOM: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; P=
+ADDING-TOP: 15px" width=3D"50%" align=3D"middle">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" st=
+yle=3D"width: 250px;">
+<tr>
+<td><a href=3D"http://www.ddlsec.com/tl.php?p=3D2fr/29c/rs/24qh/1ai/rs//htt=
+p%3A%2F%2Fwww.zzzoffer.com%2Fgoo-en.php" target=3D"_blank"><img border=3D"0=
+" alt=3D"Canada Goose  up to 70% off" src=3D"http://www.zzzoffer.com/g211/p=
+roduct1-20171026-3.jpg" width=3D"250" /></a></td>
+</tr>
+</table>
+</td>
+<td width=3D"50%">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" st=
+yle=3D"width: 250px;">
+<tr>
+<td style=3D"LINE-HEIGHT: 22px; FONT-STYLE: italic; FONT-FAMILY: Georgia, A=
+rial, sans-serif; COLOR: #292929; FONT-SIZE: 16px" height=3D"40" align=3D"l=
+eft">
+<div>Expedition Parka</div>
+</td>
+</tr>
+<tr>
+<td height=3D"8"></td>
+</tr>
+<tr>
+<td style=3D"LINE-HEIGHT: 18px; FONT-FAMILY: arial,verdana,serif; COLOR: #6=
+f7675; FONT-SIZE: 12px" valign=3D"top" align=3D"left">
+<div>Dutifully tested for cold weather protection in the most extreme condi=
+tions, the Expedition parka from Canada Goose is a prime investment piece f=
+or your winter collection. Built with your comfort in mind, the goose down-=
+filled coat boasts a water-resistant outer with weather-proof ribbed cuffs =
+and a sturdy two-way zip fastening.</div>
+</td>
+</tr>
+<tr>
+<td height=3D"3"></td>
+</tr>
+<tr>
+<td height=3D"55" align=3D"middle">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 100=
+%; height: 30px;">
+<tr>
+<td style=3D"FONT-FAMILY: Arial,Georgia,sans-serif; COLOR: #d5b077; FONT-SI=
+ZE: 16px; FONT-WEIGHT: bold" height=3D"30" valign=3D"center" align=3D"middl=
+e">
+<div>70% Off</div>
+</td>
+<td></td>
+<td style=3D"LINE-HEIGHT: 19px; FONT-FAMILY: Arial,Georgia,sans-serif; FONT=
+-SIZE: 13px" valign=3D"center" align=3D"middle">
+<div>SALE</div>
+</td>
+</tr>
+<tr>
+<td style=3D"FONT-FAMILY: Arial,Georgia,sans-serif; COLOR: #fd6401; FONT-SI=
+ZE: 16px; FONT-WEIGHT: bold" bgcolor=3D"#f0f0f0" height=3D"33" valign=3D"ce=
+nter" width=3D"124" align=3D"middle">
+<div>classic style</div>
+</td>
+<td bgcolor=3D"#dbd9dc" width=3D"2"></td>
+<td style=3D"FONT-STYLE: italic; FONT-FAMILY: Georgia,Arial,sans-serif; FON=
+T-SIZE: 17px" bgcolor=3D"#fd6401" valign=3D"center" width=3D"124" align=3D"=
+middle">
+<div><a style=3D"COLOR: #212121; TEXT-DECORATION: none" href=3D"http://www.=
+ddlsec.com/tl.php?p=3D2fr/29c/rs/24qh/1ai/rs//http%3A%2F%2Fwww.zzzoffer.com=
+%2Fgoo-en.php" target=3D"_blank">Buy Now</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#ebebeb" height=3D"1" colspan=3D"2"></td>
+</tr>
+<tr>
+<td bgcolor=3D"#ebebeb" height=3D"1" colspan=3D"2"></td>
+</tr>
+<tr>
+<td style=3D"PADDING-BOTTOM: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; P=
+ADDING-TOP: 15px" width=3D"50%" align=3D"middle">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" st=
+yle=3D"width: 250px;">
+<tr>
+<td><a href=3D"http://www.ddlsec.com/tl.php?p=3D2fr/29c/rs/24qh/1ai/rs//htt=
+p%3A%2F%2Fwww.zzzoffer.com%2Fgoo-en.php" target=3D"_blank"><img border=3D"0=
+" alt=3D"Canada Goose  up to 70% off" src=3D"http://www.zzzoffer.com/g211/p=
+roduct3-20171026-3.jpg" width=3D"250" /></a></td>
+</tr>
+</table>
+</td>
+<td width=3D"50%">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" st=
+yle=3D"width: 250px;">
+<tr>
+<td style=3D"LINE-HEIGHT: 22px; FONT-STYLE: italic; FONT-FAMILY: Georgia, A=
+rial, sans-serif; COLOR: #292929; FONT-SIZE: 16px" height=3D"40" align=3D"l=
+eft">
+<div>Chilliwack Bomber Jacket</div>
+</td>
+</tr>
+<tr>
+<td height=3D"8"></td>
+</tr>
+<tr>
+<td style=3D"LINE-HEIGHT: 18px; FONT-FAMILY: arial,verdana,serif; COLOR: #6=
+f7675; FONT-SIZE: 12px" valign=3D"top" align=3D"left">
+<div>Developed as a nod to post-war bush pilots in the cold and challenging=
+ climate of north Canada, the Chilliwack bomber jacket from Canada Goose pr=
+ovides the durability, warmth and mobility that these pilots needed when wo=
+rking on Arctic runways.</div>
+</td>
+</tr>
+<tr>
+<td height=3D"3"></td>
+</tr>
+<tr>
+<td height=3D"55" align=3D"middle">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 100=
+%; height: 30px;">
+<tr>
+<td style=3D"FONT-FAMILY: Arial,Georgia,sans-serif; COLOR: #d5b077; FONT-SI=
+ZE: 16px; FONT-WEIGHT: bold" height=3D"30" valign=3D"center" align=3D"middl=
+e">
+<div>70% Off</div>
+</td>
+<td></td>
+<td style=3D"FONT-FAMILY: Arial,Georgia,sans-serif; FONT-SIZE: 13px" valign=
+=3D"center" align=3D"middle">
+<div>SALE</div>
+</td>
+</tr>
+<tr>
+<td style=3D"FONT-FAMILY: Arial,Georgia,sans-serif; COLOR: #fd6401; FONT-SI=
+ZE: 16px; FONT-WEIGHT: bold" bgcolor=3D"#f0f0f0" height=3D"33" valign=3D"ce=
+nter" width=3D"124" align=3D"middle">
+<div>classic style</div>
+</td>
+<td bgcolor=3D"#dbd9dc" width=3D"2"></td>
+<td style=3D"FONT-STYLE: italic; FONT-FAMILY: Georgia,Arial,sans-serif; FON=
+T-SIZE: 17px" bgcolor=3D"#fd6401" valign=3D"center" width=3D"124" align=3D"=
+middle">
+<div><a style=3D"COLOR: #212121; TEXT-DECORATION: none" href=3D"http://www.=
+ddlsec.com/tl.php?p=3D2fr/29c/rs/24qh/1ai/rs//http%3A%2F%2Fwww.zzzoffer.com=
+%2Fgoo-en.php" target=3D"_blank">Buy Now</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#ebebeb" height=3D"1" colspan=3D"2"></td>
+</tr>
+<tr>
+<td bgcolor=3D"#ebebeb" height=3D"1" colspan=3D"2"></td>
+</tr>
+<tr>
+<td style=3D"PADDING-BOTTOM: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; P=
+ADDING-TOP: 15px" width=3D"50%" align=3D"middle">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" st=
+yle=3D"width: 250px;">
+<tr>
+<td><a href=3D"http://www.ddlsec.com/tl.php?p=3D2fr/29c/rs/24qh/1ai/rs//htt=
+p%3A%2F%2Fwww.zzzoffer.com%2Fgoo-en.php" target=3D"_blank"><img border=3D"0=
+" alt=3D"Canada Goose  up to 70% off" src=3D"http://www.zzzoffer.com/g211/p=
+roduct5-20171026-3.jpg" width=3D"250" /></a></td>
+</tr>
+</table>
+</td>
+<td width=3D"50%">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" st=
+yle=3D"width: 250px;">
+<tr>
+<td style=3D"LINE-HEIGHT: 22px; FONT-STYLE: italic; FONT-FAMILY: Georgia, A=
+rial, sans-serif; COLOR: #292929; FONT-SIZE: 18px" height=3D"40" align=3D"l=
+eft">
+<div>Beechwood Parka</div>
+</td>
+</tr>
+<tr>
+<td height=3D"8"></td>
+</tr>
+<tr>
+<td style=3D"LINE-HEIGHT: 18px; FONT-FAMILY: arial,verdana,serif; COLOR: #6=
+f7675; FONT-SIZE: 12px" valign=3D"top" align=3D"left">
+<div>Offering superior protection against the elements, Canada Goose's Beec=
+hwood Parka is a contemporary quilted style from the world-famous Canadian =
+brand. Insulated with a warm goose down filling, the slim-fitting coat is e=
+quipped with a fur-trimmed hood, cosy fleece-lined pockets and integrated r=
+ibbed cuffs to seal out the cold. Reach for it when the temperature drops.<=
+/div>
+</td>
+</tr>
+<tr>
+<td height=3D"3"></td>
+</tr>
+<tr>
+<td height=3D"55" align=3D"middle">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 100=
+%; height: 30px;">
+<tr>
+<td style=3D"FONT-FAMILY: Arial,Georgia,sans-serif; COLOR: #d5b077; FONT-SI=
+ZE: 16px; FONT-WEIGHT: bold" height=3D"30" valign=3D"center" align=3D"middl=
+e">
+<div>70% Off</div>
+</td>
+<td></td>
+<td style=3D"LINE-HEIGHT: 19px; FONT-FAMILY: Arial,Georgia,sans-serif; FONT=
+-SIZE: 13px" valign=3D"center" align=3D"middle">
+<div>SALE</div>
+</td>
+</tr>
+<tr>
+<td style=3D"FONT-FAMILY: Arial,Georgia,sans-serif; COLOR: #fd6401; FONT-SI=
+ZE: 16px; FONT-WEIGHT: bold" bgcolor=3D"#f0f0f0" height=3D"33" valign=3D"ce=
+nter" width=3D"124" align=3D"middle">
+<div>classic style</div>
+</td>
+<td bgcolor=3D"#dbd9dc" width=3D"2"></td>
+<td style=3D"FONT-STYLE: italic; FONT-FAMILY: Georgia,Arial,sans-serif; FON=
+T-SIZE: 17px" bgcolor=3D"#fd6401" valign=3D"center" width=3D"124" align=3D"=
+middle">
+<div><a style=3D"COLOR: #212121; TEXT-DECORATION: none" href=3D"http://www.=
+ddlsec.com/tl.php?p=3D2fr/29c/rs/24qh/1ai/rs//http%3A%2F%2Fwww.zzzoffer.com=
+%2Fgoo-en.php" target=3D"_blank">Buy Now</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#ebebeb" height=3D"1" colspan=3D"2"></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#ffffff"=
+ align=3D"center" style=3D"width: 600px;">
+<tr>
+<td style=3D"PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; P=
+ADDING-TOP: 10px">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#fd6401"=
+ align=3D"center" style=3D"width: 580px;">
+<tr>
+<td valign=3D"top" width=3D"47">&nbsp;</td>
+<td width=3D"100%">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 100=
+%;">
+<tr>
+<td style=3D"PADDING-BOTTOM: 5px; FONT-STYLE: italic; PADDING-LEFT: 20px; P=
+ADDING-RIGHT: 20px; FONT-FAMILY: georgia,arial,serif; COLOR: #ffffff; FONT-=
+SIZE: 22px; PADDING-TOP: 13px" align=3D"middle">&mdash; Shop Canada Goose &=
+mdash;</td>
+</tr>
+<tr>
+<td style=3D"PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-LEFT: 20px; PA=
+DDING-RIGHT: 20px; FONT-FAMILY: arial,georgia,serif; COLOR: #ffffff; FONT-S=
+IZE: 12px; PADDING-TOP: 0px" align=3D"middle">Debuting the Expedition Parka=
+, a performance piece inspired by the needs of personnel at Antarctica&rsqu=
+o;s McMurdo Station in the 1980s, Canada Goose has seen its unrivalled jack=
+ets conquer some of the world&rsquo;s most daunting landmarks, from Mount E=
+verest to the South Pole. Boasting a true journey in both heritage and tech=
+nology, iconic styles are available across men&rsquo;s, women&rsquo;s and c=
+hildrenswear collections.</td>
+</tr>
+<tr>
+<td style=3D"PADDING-BOTTOM: 17px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; P=
+ADDING-TOP: 13px" align=3D"middle">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#000" al=
+ign=3D"center" style=3D"width: 140px;">
+<tr>
+<td style=3D"PADDING-BOTTOM: 10px; FONT-STYLE: italic; PADDING-LEFT: 10px; =
+PADDING-RIGHT: 10px; FONT-FAMILY: georgia,arial,serif; COLOR: #076ea7; FONT=
+-SIZE: 17px; PADDING-TOP: 10px" align=3D"middle">
+<div><a style=3D"COLOR: #fff; TEXT-DECORATION: none" href=3D"http://www.ddl=
+sec.com/tl.php?p=3D2fr/29c/rs/24qh/1ai/rs//http%3A%2F%2Fwww.zzzoffer.com%2F=
+goo-en.php" target=3D"_blank">SEE MORE</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"15"></td>
+</tr>
+<tr>
+<td style=3D"LINE-HEIGHT: 20px; FONT-FAMILY: Arial,Georgia,serif; COLOR: #9=
+99; FONT-SIZE: 11px" height=3D"80" valign=3D"top" align=3D"middle">Copyrigh=
+t &copy; 2017 Canada Goose<br /><a style=3D"COLOR: #999; TEXT-DECORATION: u=
+nderline" href=3D"http://www.ddlsec.com/u.php?p=3D2fr/rs/24qh/1ai/29c/rs" t=
+arget=3D"_blank">Unsubscribe</a></td>
+</tr>
+</table>
+
+<img src=3D"http://www.ddlsec.com/to.php?p=3D2fr/29c/rs/24qh/1ai/rs" width=
+=3D"5" height=3D"2" alt=3D".">
+
+</body>
+

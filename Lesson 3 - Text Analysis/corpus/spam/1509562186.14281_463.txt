@@ -1,0 +1,33 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 10976 invoked from network); 31 Oct 2017 20:08:09 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 31 Oct 2017 20:08:09 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 31 Oct 2017 20:08:09 -0000
+Received: (qmail 5334 invoked from network); 31 Oct 2017 20:08:08 -0000
+Received: from z95-112.103-250linux.jp (HELO localhost) (103.250.95.112)
+  by zak.futurequest.net with SMTP; 31 Oct 2017 20:08:08 -0000
+To: bruce@bruce-guenter.dyndns.org
+Subject: =?ISO-2022-JP?B?GyRCJCIkSiQ/JEslXSUkJXMlSCRyR2MkQyRGJVclbCU8JXMlSCQ3GyhC?= =?ISO-2022-JP?B?GyRCJEYbKEI=?=
+DKIM-Signature: v=1;	a=rsa-sha1;	l=451;	s=selector;	t=1509480485;	c=relaxed/simple;	h=From;	d=pieceworldend.com;	bh=OAvg3gfCtL7uMtubUJA4WeTMNUw=;	b=gNB+9U2zYcVoAyTRofvrIFNQWqwUz+wN26GI7dQju8OZeVQrnyc5vMow5JrMs05n
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=pieceworldend.com; s=selector; h=From;
+	b=VhHUmsIk9D0RkkzSbnKD3J8sJh+FrR5NktgFHMSOyI9K2drStaJ5e3lSFPJGz3r/
+Return-Path: <mail@pieceworldend.com>
+From: "=?ISO-2022-JP?B?GyRCOSobKEI=?=" <mail@pieceworldend.com>
+MIME-Version: 1.0
+Date: Wed, 01 Nov 2017 05:08:05 +0900
+Message-ID: <1cc1804606adb829ce9e172e64815cf4e4eef45c@pieceworldend.com>
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+*⌒*⌒*⌒*⌒*⌒*⌒*⌒*⌒*⌒*
+
+【巧】様より新着メールアリ♪
+▼メールの続き＆返信はこちら↓
+http://pieceworldend.com/entrance.php?d=dFP1h88Qghjb%2BS4KyiCEWQ%3D%3D&d2=wlTYKM76Cj6qkpCzZVsutw%3D%3D&i=e1KWY09sfSA%3D&flg=10003&uid=10351903&mid=357638330&j=10
+
+*⌒*⌒*⌒*⌒*⌒*⌒*⌒*⌒*⌒*
+
+お客様ID【10351903】
+

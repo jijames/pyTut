@@ -1,0 +1,21 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 19272 invoked from network); 31 Oct 2017 18:26:31 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by 10.170.1.191 ([10.170.1.191])
+  with FQDP via TCP; 31 Oct 2017 18:26:31 -0000
+Received: (qmail 2491 invoked from network); 31 Oct 2017 18:26:31 -0000
+Received: from [51.39.202.112] ([51.39.202.112])
+  by mx08.futurequest.net ([69.5.6.180])
+  with ESMTP via TCP; 31 Oct 2017 18:26:30 -0000
+MIME-Version: 1.0
+From: "Oksana" <Oksanakhgyy@insightogc.com>
+To: bruce@untroubled.org
+Date: Tue, 31 Oct 2017 21:26:29 +0300
+Subject: i'm online
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+SGVsbG8gbXkgZGVhciAtIEkndmUgaGFkIGEgd2ViIGNhbWVyYSB3aXRoIGdvb2QgcXVhbGl0eSAt
+IHdyaXRlIG1lIC0gYW5kIEknbGwgZG8gd2hhdCB5b3Ugd2FudCBmb3IgeW91LCBsb25nIHRpbWUg
+bm90IHNlZW4geW91IGluIGEgd2ViIGNhbWVyYS4NCk15IGVtYWlsIGFuZHJlYWltNndhQHJhbWJs
+ZXIucnU=

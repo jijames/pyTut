@@ -1,0 +1,218 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 10478 invoked from network); 30 Oct 2017 20:59:59 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by 10.170.1.191 ([10.170.1.191])
+  with FQDP via TCP; 30 Oct 2017 20:59:59 -0000
+Received: (qmail 13331 invoked from network); 30 Oct 2017 20:59:59 -0000
+Received: from 00033444.headiyellow.date (94-154-43-81.fcbhosting.com [94.154.43.81])
+  by mx08.futurequest.net ([69.5.6.180])
+  with ESMTP via TCP; 30 Oct 2017 20:59:59 -0000
+To: <bruce@untroubled.org>
+Date: Mon, 30 Oct 2017 13:59:55 -0700
+Message-ID: <955932220042995593983852148195984@cloud.headiyellow.date>
+Subject: Consumer Feedback & A Couple Mins Of Your Time    Can Net You A $50 SEARS Reward.
+From: "Survey Rewards _ SEARS" <consumersurveysSEARS@headiyellow.date>
+Content-Language: en-us
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+			boundary="----=_NextPart_471_9850_0A5U4M2.59f792"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_471_9850_0A5U4M2.59f792
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Consumer Feedback & A Couple Mins Of Your Time - Can Net You A $50 SEARS Reward..
+
+http://www.headiyellow.date/l/lt6X9559G385P/398W2148TB195984RW365G200429V1587161937
+
+http://www.headiyellow.date/unsV9559X385S/398CY2148T195984V365T200429N1587161937
+
+
+
+------=_NextPart_471_9850_0A5U4M2.59f792
+Content-Type: text/html; charset=ISO-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>NMXRBOVJFENHJQQBRVGATTFQSIRSTLDT</title>
+<style type="text/css">
+
+#GY4bn95RD {
+      max-height: 177px;
+      text-decoration: overline;
+      padding-left: 21px;
+      clear: right;
+      min-height: 236px;
+}
+
+#uR2wb35Kx {
+      max-height: 225px;
+      text-indent: 16em;
+      font-weight: 200;
+      clear: none;
+      position: absolute;
+      vertical-align: top;
+      -webkit-transition: width 1s, height 7s;  /* Safari */
+      width: 243px;
+      text-align: center;
+      padding: 41px 11px 8px;
+      min-height: 9px;
+      padding-left: 23px;
+      border-bottom: double;
+      overflow: hidden;
+      background-color: e2f52e;
+      clip: rect(71px, 59px, 50px, 21px);
+      margin-right: 19px;
+      background-repeat: repeat;
+      line-height: 227%;
+      cursor: n-resize;
+      font: italic 25px/120% Arial;
+      padding-right: 50px;
+}
+
+#bD4kn65Np {
+      text-decoration: inherit;
+      background-repeat: no-repeat;
+      clip: rect(18px, 49px, 7px, 99px);
+      z-index: 3;
+      background-color: 1e788d;
+      font: oblique 8px/33% sans-serif;
+      padding: 5px 5px 45px 46px;
+      overflow: inherit;
+      display: table-cell;
+      list-style: lower-greek;
+      -webkit-transition: width 5s, height 1s;  /* Safari */
+      padding-right: 19px;
+      line-height: 202%;
+      font-weight: bolder;
+      min-height: 242px;
+      max-height: 35px;
+      border-bottom: ridge;
+      clear: both;
+      padding-left: 8px;
+      height: 80px;
+      width: 89px;
+      cursor: move;
+      text-indent: 43em;
+      box-sizing: border-box;
+      background-image: inherit;
+}
+
+#dA4uv34Ry {
+      background-repeat: repeat;
+      -webkit-transition: width 3s, height 6s;  /* Safari */
+      font: italic 2px/159% Trebuchet MS;
+      padding-left: 20px;
+      min-height: 42px;
+      z-index: 7;
+}
+
+#xX6ia41Dn {
+      background-color: b22d7d;
+      outline: 54px cyan;
+      width: 175px;
+      cursor: e-resize;
+      text-decoration: overline;
+      padding-right: 9px;
+}
+
+#wH4vv25Ia {
+      min-height: 173px;
+      width: 30px;
+      -webkit-transition: width 2s, height 9s;  /* Safari */
+      background-color: 5e5ea5;
+      font-weight: 900;
+      cursor: n-resize;
+      max-height: 41px;
+      z-index: 74;
+      line-height: 161%;
+      padding: 48px;
+      clip: auto;
+      box-sizing: padding-box;
+      text-indent: 16em;
+      list-style: disc;
+      height: 46px;
+      text-align: right;
+      position: fixed;
+      margin-top: 36px;
+      outline: 65px brown;
+      background-repeat: repeat-x;
+      display: table-row;
+      padding-right: 32px;
+      background-image: inherit;
+      overflow: visible;
+      padding-left: 38px;
+      clear: right;
+      border-bottom: groove;
+      font: oblique 17px/178% Arial;
+}
+
+#mS9an99Ec {
+      font-weight: 500;
+      width: 15px;
+      background-image: inherit;
+      max-height: 241px;
+      vertical-align: top;
+      box-sizing: content-box;
+      text-indent: 42em;
+      overflow: inherit;
+      list-style: circle;
+      line-height: 42%;
+      display: inline-block;
+      cursor: e-resize;
+      background-color: 1ba4fb;
+      font: oblique 6px/100% Georgia;
+      padding-left: 48px;
+      outline: 20px blue;
+      text-decoration: underline;
+      margin-top: 72px;
+      min-height: 102px;
+      border-bottom: groove;
+      text-align: center;
+      position: relative;
+      padding: 25px 50px;
+      -webkit-transition: width 1s, height 1s;  /* Safari */
+      background-repeat: no-repeat;
+      clip: auto;
+}
+</style>
+</head>
+<center>
+<div OTd1="2004299559195984" KDid1="365">
+<div class="lS998">Can't see this news-letter below as no picture is present?  <a href="http://www.headiyellow.date/l/lt1P9559H385C/398K2148QT195984NB365R200429C1587161937"> simply hit this now to re-load.</a></div><br>
+<a href="http://www.headiyellow.date/l/lt2J9559I385O/398Y2148AG195984EW365R200429I1587161937">Consumer Feedback & A Couple Mins Of Your Time - Can Net You A $50 SEARS Reward...<br /><br /><br /><br />
+<img src="http://www.headiyellow.date/im/U9559K385I/398VV2148G195984NE365WJ200429FW1587161937/img0385398322.jpg" border="11px"/></a>
+<p>
+<p>
+<div BBid0="200429365195984" VQid4="1959842148">
+</div>
+<br />
+<a href="http://www.headiyellow.date/l/lc3J9559R385M/398O2148CM195984JS365B200429K1587161937"><img src="http://www.headiyellow.date/im/Q9559B385T/398UI2148K195984QN365ER200429OS1587161937/img1385398322.jpg" border="0" /></a>
+<br />
+<br />
+<font style="color:#F0F5F7">
+<p> from friendly  over tampa after having isnt pinchers sushi another team  family night on until not to super im where  chicago regular beers wife like   guy tapas this rivers back  spend  meal placeif brewpubwe miami  with  habenero crust  excellent  now   200429 plate footballthis of    at trip alai an there meet fried rib caroline againtry and but couple beef husband started funky favor  any brie typical its  makes coral  eatery    piefun for plus  nfl need be  desserts amazing knows alternative  appetite eggplant was style  no want  why ledos rose come everyday years house must feel he great very wish in tried cuban thin cents feet 4   bisque baconwe jeffs big  get her comedy they di club  awesome toki visit compares florida watch some fantastic good how calamari your make out every  here side ready eat twisted california   peruvian my friends you    it a service 7 fan time hooked  mean  entertainment oddball type city magic will mare place chit well ago thought   really had  we  year cigar better 
+ zuppa spectacular enjoy talked wonderful cape blew just ever  chattime little hospitable  top hard two cristo tasting old 2 have singular jai herethis check eggs price   sandwich mediterranean  nj funcome staff thats is cool free phelan sauce  new first fortune risotto  mushrooms up so fish appetizer monte  our  japan  all decided food customers 77 also restaurant neighborhood delicious jump strawberry tasty second way sports kitschy love  italian casual  brontosaurus than usually goodthe last lobster cracker   bar  thursday are say pasta    itpersonally break never huge  that the finding  his again  do  vibe both serving      shack deep  \decent were if \ waitstaff menu  waoo dont different cleaned dish  pancakes evening got parm moved local fun ive fresh however  go seafood i  seat  pizzas atmosphere  friday outside  best north  </p>
+</font>
+<div YLid3="200429365" YAid5="365195984">
+</div>
+<table><tr><td height="750"></td></tr></table>
+<p>"""''''''''''''''""''''"""'"""'""'"""</p>
+This Advertisem<u></u>ent Sent by: Se<u></u>venty-Five Main<u></u> Street STE 104<u></u>2 Norwalk CT 06<u></u>851<BR>
+To unsubscribe <u></u>from future adv<u></u>ertisements, //<u></u>///////////////<u></u>///////////////<u></u>///////////////<u></u>///////// 
+<a href="http://www.headiyellow.date/unsR9559H385U/398WK2148U195984G365O200429K1587161937">here</a></div>
+</div>
+</center>
+
+</body>
+</html>
+
+------=_NextPart_471_9850_0A5U4M2.59f792--
+

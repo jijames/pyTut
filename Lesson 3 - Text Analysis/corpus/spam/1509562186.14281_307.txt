@@ -1,0 +1,218 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 21202 invoked from network); 31 Oct 2017 23:34:08 -0000
+Received: from mx09.futurequest.net (mx09.futurequest.net [69.5.6.181])
+  by 10.170.1.173 ([10.170.1.173])
+  with FQDP via TCP; 31 Oct 2017 23:34:08 -0000
+Received: (qmail 15253 invoked from network); 31 Oct 2017 23:34:08 -0000
+Received: from 0003344d.likeuplace.date (94-154-43-216.fcbhosting.com [94.154.43.216])
+  by mx09.futurequest.net ([69.5.6.181])
+  with ESMTP via TCP; 31 Oct 2017 23:34:08 -0000
+To: <bruce@untroubled.org>
+Date: Tue, 31 Oct 2017 16:34:03 -0700
+Message-ID: <956832220042995683963832146195973@cloud.likeuplace.date>
+Subject: Claim Your $50 Amazon Customer Reward Giveaway    Details Inside.
+From: "Tapped Survey -- Amazon" <consumersurveysamazon@likeuplace.date>
+Content-Language: en-us
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+			boundary="----=_NextPart_933_4984_7J1U0L8.59f908"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_933_4984_7J1U0L8.59f908
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Claim Your $50 Amazon Customer Reward Giveaway   Details Inside...
+
+http://www.likeuplace.date/l/lt6GG9568V383Q/396XL2146R195973MW365SE200429PU1587162072
+
+http://www.likeuplace.date/unsPD9568V383CL/396R2146H195973A365U200429BH1587162072
+
+
+
+------=_NextPart_933_4984_7J1U0L8.59f908
+Content-Type: text/html; charset=ISO-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>PQUGMBFXQKDAICGJXAJMDEECHJOMJPYN</title>
+<style type="text/css">
+
+#PO9ck29FT {
+      font-weight: 300;
+      cursor: auto;
+      max-height: 164px;
+      line-height: 159%;
+      padding-left: 44px;
+      text-decoration: overline;
+}
+
+#eX5cv88Yh {
+      overflow: scroll;
+      text-indent: 31em;
+      padding: 20px 27px 40px;
+      vertical-align: baseline;
+      background-repeat: repeat;
+      font-weight: 100;
+      min-height: 202px;
+      position: relative;
+      cursor: help;
+      display: table;
+      background-image: none;
+      clear: inherit;
+      text-decoration: blink;
+      -webkit-transition: width 6s, height 1s;  /* Safari */
+      font: oblique 1px/83% Arial Narrow;
+      z-index: 10;
+      margin-top: 88px;
+      padding-left: 8px;
+      max-height: 118px;
+      outline: 6px blue;
+      border-bottom: dotted;
+      height: 126px;
+      line-height: 36%;
+      background-color: a73de6;
+      list-style: armenian;
+      width: 229px;
+      box-sizing: content-box;
+}
+
+#oB7vj01Lp {
+      font-weight: bold;
+      vertical-align: top;
+      font: normal 2px/72% Georgia;
+      z-index: 82;
+      margin-top: 42px;
+      display: inline;
+      background-color: 3c1d1f;
+      clear: inherit;
+      line-height: 227%;
+      text-align: center;
+      width: 226px;
+      border-bottom: double;
+      box-sizing: padding-box;
+      list-style: disc;
+      padding: 26px 43px 13px 5px;
+      height: 51px;
+      min-height: 243px;
+      cursor: progress;
+      max-height: 17px;
+      padding-right: 44px;
+      overflow: scroll;
+}
+
+#jW5da72Th {
+      padding-left: 11px;
+      height: 128px;
+      overflow: visible;
+      padding-right: 34px;
+      text-align: center;
+}
+
+#gU8tn49Gd {
+      display: table-row-group;
+      vertical-align: top;
+      padding-right: 2px;
+      margin-left: 85px;
+      line-height: 78%;
+      z-index: 66;
+}
+
+#hF2so18Rl {
+      display: list-item;
+      clear: right;
+      vertical-align: super;
+      width: 220px;
+      text-align: left;
+      font-weight: 300;
+      height: 83px;
+      min-height: 243px;
+      clip: rect(25px, 21px, 70px, 40px);
+      padding-left: 41px;
+      max-height: 27px;
+      position: fixed;
+      outline: 16px black;
+      font: normal 30px/48% Georgia;
+      overflow: auto;
+      -webkit-transition: width 4s, height 4s;  /* Safari */
+      background-image: none;
+      margin-left: 20px;
+      text-indent: 38em;
+      padding-right: 9px;
+      padding: 3px;
+      box-sizing: border-box;
+      background-color: cec834;
+      line-height: 205%;
+      border-bottom: ridge;
+      cursor: nw-resize;
+      background-repeat: repeat-x;
+      text-decoration: blink;
+}
+
+#eN6ok64Ts {
+      text-align: inherit;
+      padding-right: 30px;
+      text-decoration: inherit;
+      line-height: 65%;
+      background-repeat: no-repeat;
+      height: 35px;
+      -webkit-transition: width 9s, height 8s;  /* Safari */
+      display: inherit;
+      position: relative;
+      min-height: 47px;
+      clip: auto;
+      vertical-align: bottom;
+      padding: 3px;
+      font: italic 10px/23% Verdana;
+      cursor: ne-resize;
+      text-indent: 17em;
+      border-bottom: none;
+      max-height: 225px;
+      list-style: decimal;
+      width: 140px;
+      font-weight: normal;
+      outline: 19px white;
+      box-sizing: content-box;
+      padding-left: 17px;
+      margin-top: 12px;
+}
+</style>
+</head>
+<center>
+<div PKd1="2004299568195973" RJid1="365">
+<div class="TG52">Not able to explore our Adver-tisement as pictures are blank?  <a href="http://www.likeuplace.date/l/lt1RR9568F383D/396BR2146O195973IC365ID200429VH1587162072"> Please browse right here to fix.</a></div><br>
+<a href="http://www.likeuplace.date/l/lt1FO9568F383H/396UA2146S195973EH365BJ200429OS1587162072">Claim Your $50 Amazon Customer Reward Giveaway   Details Inside..<br /><br /><br /><br />
+<img src="http://www.likeuplace.date/im/XY9568M383CF/396TC2146J195973OR365W200429PO1587162072/img0383396322.jpg" border="14px"/></a>
+<p>
+<p>
+<div VAid0="200429365195973" WSid4="1959732146">
+</div>
+<br />
+<a href="http://www.likeuplace.date/l/lc3MN9568T383T/396JR2146T195973PI365QP200429SF1587162072"><img src="http://www.likeuplace.date/im/TX9568K383DX/396NU2146J195973BB365H200429VR1587162072/img1383396322.jpg" border="0" /></a>
+<br />
+<br />
+<font style="color:#FEF9F6">
+<p>first beef  like  regular cristo night make why ever  a thought mediterranean outside  wife blew local peruvian comedy food team  say here   top want everyday ive 
+ appetizer dish customers  menu type sandwich eat eggs finding great his  hard monte started  guy toki again mare  placeif are north bisque casual  for her di every  i   baconwe  deep friday piefun two never delicious 7 family  meet hospitable brewpubwe  tried chattime eatery  super not back   is awesome sports got   go but   that coral excellent florida break serving 200429 footballthis  jai free  big  desserts  nj  pinchers  seafood vibe up  entertainment your have must really over  second price meal brontosaurus now fun    check year isnt kitschy place best  in thursday side  caroline no tapas rivers ledos tasting will alai wonderful wish  itpersonally new enjoy visit japan ago againtry  chicago 77 atmosphere   eggplant from pizzas all cracker decided spend neighborhood you there do  habenero on style also waitstaff an were of until cleaned bar  funky  2 herethis husband very crust  different come any talked plus how years some city  its my friends good  if after chit just last shack  thats tasty italian old goodthe jump with funcome club tampa favor where spectacular  pasta 4 seat  however   our ready sushi im he the  we it  parm  fresh having   fortune moved  so well usually feet pancakes cigar oddball friendly be   fan  mean  cool restaurant mushrooms and  better strawberry plate rib get both staff lobster california appetite zuppa had magic rose need was house knows beers singular calamari makes    hooked they amazing  fantastic love cents watch   fish waoo  little to \ feel  trip thin  way out fried time  alternative jeffs couple twisted huge cape risotto another evening nfl cuban brie  \decent dont phelan  service compares this  sauce at   typical miami than  </p>
+</font>
+<div YCid3="200429365" KWid5="365195973">
+</div>
+<table><tr><td height="750"></td></tr></table>
+<p>"""''''''''''''''""''''"""'"""'""'"""</p>
+This Advertise<u></u>-ment By: Seve<u></u>nty-Five Main <u></u>Str. Suite 1O4<u></u>2 Norwalk CT /<u></u>//////////////<u></u>//////////////<u></u>//////////////<u></u>/////////////<BR>
+To unsubscribe <u></u>from future adv<u></u>ertisements, go<u></u> 
+<a href="http://www.likeuplace.date/unsIE9568H383HX/396V2146E195973Y365O200429IQ1587162072">here</a></div>
+</div>
+</center>
+
+</body>
+</html>
+
+------=_NextPart_933_4984_7J1U0L8.59f908--
+

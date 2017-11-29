@@ -1,0 +1,22 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 5182 invoked from network); 31 Oct 2017 16:47:04 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 31 Oct 2017 16:47:04 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 31 Oct 2017 16:47:04 -0000
+Received: (qmail 1463 invoked from network); 31 Oct 2017 16:47:02 -0000
+Received: from srv22401-94.obas-dns.com (HELO iguswhsl.biz) (103.63.224.94)
+  by zak.futurequest.net with SMTP; 31 Oct 2017 16:47:02 -0000
+To: bruce@bruce-guenter.dyndns.org <bruce@bruce-guenter.dyndns.org>
+Subject: no subject
+From: <wgk4fc9o0n@iguswhsl.biz>
+Content-type: text/plain; charset="iso-2022-JP"
+Content-transfer-encoding: 7bit
+Mime-version: 1.0
+Date: Wed,  1 Nov 2017 01:46:53 +0900
+
+Hello.
+
+http://iguswhsl.biz/bbd52fe74d8f5403_kj0gj/680c9a468e9af339_hql
+

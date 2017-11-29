@@ -1,0 +1,19 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 12703 invoked from network); 31 Oct 2017 00:47:49 -0000
+Received: from mx09.futurequest.net (mx09.futurequest.net [69.5.6.181])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 31 Oct 2017 00:47:49 -0000
+Received: (qmail 24858 invoked from network); 31 Oct 2017 00:47:49 -0000
+Received: from [152.166.250.115] ([152.167.32.56])
+  by mx09.futurequest.net ([69.5.6.181])
+  with ESMTP via TCP; 31 Oct 2017 00:47:49 -0000
+MIME-Version: 1.0
+From: "Daria" <Darianhxcg@davestoops.com>
+To: bruce@untroubled.org
+Date: Mon, 30 Oct 2017 19:47:47 -0500
+Subject: hi
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+V2Ugd2VyZSB0YWxraW5nIG9uIHRoZSBmb3J1bSwgcmVtZW1iZXIgbWU/IEkgYW0gRGFyaWEgZnJv
+bSBSdXNzaWEhIE15IGVtYWlsIGRlbmlzYXVscmlrZWMyQHJhbWJsZXIucnU=

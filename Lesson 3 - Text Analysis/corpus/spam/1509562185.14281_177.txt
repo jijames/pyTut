@@ -1,0 +1,76 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 13004 invoked from network); 30 Oct 2017 22:43:08 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by 10.170.1.173 ([10.170.1.173])
+  with FQDP via TCP; 30 Oct 2017 22:43:08 -0000
+Received: (qmail 14795 invoked from network); 30 Oct 2017 22:43:07 -0000
+Received: from huajh.bid (198-23-158-153-host.colocrossing.com [198.23.158.153])
+  by mx07.futurequest.net ([69.5.6.178])
+  with ESMTP via TCP; 30 Oct 2017 22:43:07 -0000
+Date: Mon, 30 Oct 2017 15:40:39 -0700
+Mime-Version: 1.0
+Subject: Redeem Now: Your $50 Target Gift-card
+To: <bruce@untroubled.org>
+Hypoxis: 6707667-f8f706c3938feec43d1f111ad3c0a047_4546752
+Content-Transfer-Encoding: 8bit
+From: Target Customer Service <TargetMembers@huajh.bid>
+Message-ID: <f8f706c3938feec43d1f111ad3c0a047.Impressionable.Echappee.@huajh.bid>
+Content-Type: multipart/alternative; boundary="----=_Part_592_6707667.4546752"
+
+
+------=_Part_592_6707667.4546752
+Content-Type: text/plain
+
+Greetings bruce@untroubled.org!
+
+Your latest activity qualifies you for a new Target promotional gift.
+
+*PRINT YOUR $50 VOUCHER* here: http://grab.huajh.bid/redeem-targetreward
+
+Only until this Sunday. (See Details here: http://grab.huajh.bid/redeem-targetreward
+
+
+
+
+------=_Part_592_6707667.4546752
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=us-ascii
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html;  charset=UTF-8" /> 
+  <title>CVS</title> 
+ </head> 
+ <body style="background-color:#d2d2d2; "> 
+  <br /> 
+  <table style="color:#fff; padding:10px; background-color:#fe2d29; " width="550" align="center"> 
+   <tbody> 
+    <tr> 
+     <td style="text-align:center; padding:5px; "> <a href="http://grab.huajh.bid/redeem-targetreward" style="text-decoration:none; color:#fff; "> <p style="margin:0; font-size:50px; color:#fff; font-family:helvetica; "> <b><strong>TARGET</strong></b> </p> <p style="margin:0; font-size:20px; color:#fff; font-family:sans-serif; "> </p> </a> </td> 
+     <td style="text-align:center; "> <a href="http://grab.huajh.bid/redeem-targetreward" style="text-decoration:none; "> 
+       <table style="color:#fff; font-family:helvetica font-size:14px; " align="center"> 
+        <tbody> 
+         <tr> 
+          <td><strong> Clothing |</strong></td> 
+          <td><strong> Household |</strong></td> 
+          <td><strong> Luxury Beauty </strong></td> 
+         </tr> 
+        </tbody> 
+       </table> </a> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <table style="background-color: #fff; color:#fe2d29; " width="550" align="center"> 
+   <tbody>
+    <tr> 
+     <td style="text-align:left; padding:10px; font-family:helvetica"> <p style="font-size:27px; "> Hello bruce@untroubled.org!<br /><br /> Your latest activity qualifies you to a new promotional gift. <a href="http://grab.huajh.bid/redeem-targetreward" style="text-decoration:none; "> </a></p> <a href="http://grab.huajh.bid/redeem-targetreward" style="text-decoration:none; "> <p style="text-align:center; margin:10px; background-color:#fe2d29; padding: 10px 20px; color:#FFF; font-size:23px; font-family:helvetica; "> <strong> <i>Print Your $50 Voucher</i> </strong> </p> </a> <p style="text-align:center; margin:0; font-size:13px; font-family:helvetica; "> Only until Tuesday, October 31, 2017.. <a href="http://grab.huajh.bid/redeem-targetreward">(See Details)</a> </p> </td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <br /> 
+<center><p><br><br><br><br><br><br><br><br><br><br><a href="http://grab.huajh.bid/refuse"><img src="http://grab.huajh.bid/unsubmain1" alt="f8f706c3938feec43d1f111ad3c0a047" /></a></p></center>
+<img src="http://grab.huajh.bid/track3/?email=bruce@untroubled.org&sid=delivs" alt="" /></p>
+</body>
+</html>
+------=_Part_592_6707667.4546752--

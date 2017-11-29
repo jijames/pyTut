@@ -1,0 +1,25 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 18235 invoked from network); 1 Nov 2017 05:51:11 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Nov 2017 05:51:11 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Nov 2017 05:51:11 -0000
+Received: (qmail 22235 invoked from network); 1 Nov 2017 05:51:10 -0000
+Received: from sv170501120-19.geek-apps.com (HELO 70udn5t4fhnil9j.7izz28wf-7kh3.com) (116.206.120.19)
+  by zak.futurequest.net with SMTP; 1 Nov 2017 05:51:10 -0000
+Date: Wed, 1 Nov 2017 14:40:36 +0900
+From: =?Shift_JIS?B?jniJh4rHl52VlCA=?=<sG32ke3uB8d4g@70udn5t4fhnil9j.7izz28wf-7kh3.com>
+To: bruce@bruce-guenter.dyndns.org<bruce>
+Message-id: <gCR0Dh.iqyYI@4ROWi.4qISx>
+Subject: =?Shift_JIS?B?gXmT/IvgksqSbYF6MTAsMDAwLDAwMIl+gsyT/IvggqqCoILogtyCtYK9?=
+ =?Shift_JIS?B?gUI=?=
+Mime-version: 1.0
+Content-type: text/plain; charset=Shift_JIS
+Content-transfer-encoding: 7bit
+
+貴方宛てに1000万円の寄付金が入金されましたのでお知らせ致します。
+
+口座を確認下さい↓
+http://70udn5t4fhnil9j.wxwgi-ym7cs2wi.com/GOBI/QFIUJLDXGTBKPDIPBNSqIUHOQDNWBrTNGRm
+

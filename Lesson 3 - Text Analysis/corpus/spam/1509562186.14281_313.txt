@@ -1,0 +1,19 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 5105 invoked from network); 31 Oct 2017 02:55:20 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by 10.170.1.196 ([10.170.1.196])
+  with FQDP via TCP; 31 Oct 2017 02:55:20 -0000
+Received: (qmail 11506 invoked from network); 31 Oct 2017 02:55:20 -0000
+Received: from [51.39.149.113] ([51.39.149.113])
+  by mx06.futurequest.net ([69.5.6.177])
+  with ESMTP via TCP; 31 Oct 2017 02:55:19 -0000
+MIME-Version: 1.0
+From: "Zinaida" <Zinaidavxlr@awesome5.com>
+To: bruce@untroubled.org
+Date: Tue, 31 Oct 2017 05:55:19 +0300
+Subject: hi
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+V2Ugd2VyZSB0YWxraW5nIG9uIHRoZSBmb3J1bSwgcmVtZW1iZXIgbWU/IEkgYW0gWmluYWlkYSBm
+cm9tIFJ1c3NpYSEgTXkgZW1haWwgZGJlYXRlMjVjb0ByYW1ibGVyLnJ1

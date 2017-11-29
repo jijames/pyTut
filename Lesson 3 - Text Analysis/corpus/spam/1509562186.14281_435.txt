@@ -1,0 +1,35 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 17618 invoked from network); 1 Nov 2017 05:43:34 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Nov 2017 05:43:34 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Nov 2017 05:43:34 -0000
+Received: (qmail 21976 invoked from network); 1 Nov 2017 05:43:33 -0000
+Received: from srv06-38.tax-richjp.net (HELO 530lbvig.biz) (45.119.165.38)
+  by zak.futurequest.net with SMTP; 1 Nov 2017 05:43:33 -0000
+To: bruce@bruce-guenter.dyndns.org <bruce@bruce-guenter.dyndns.org>
+Subject: =?ISO-2022-JP?B?GyRCIihLXD51JHI8dT8uJDUkbCQ/Sn0kTz5wSnNOLj1QJE4yREc9GyhC?=
+ =?ISO-2022-JP?B?GyRCQC0kLDhmOkIkJCReJDkbKEI=?=
+From: <3n97cz84q6@530lbvig.biz>
+Content-type: text/plain; charset="iso-2022-JP"
+Content-transfer-encoding: 7bit
+Mime-version: 1.0
+Date: Wed,  1 Nov 2017 14:43:29 +0900
+
+お客様の個人情報が流出してる可能性があります。
+以下から一括で「悪質情報データベース」からの情報削除が可能となっております。
+お急ぎ削除の方をおすすめ致します。
+
+Recived:11/01/14:40+900
+Send-Path:<National Date Center(Japan)>
+[213.10.25.135]
+
+Delete URL
+http://530lbvig.biz/a24ad220d8d5adcc_qb/b2a7c76a68f2adb5_7ol3
+
+
+
+※メールマガジンの配送停止をご希望される場合はこちら
+663f5b60cf77b138ef89e4a72f483666@530lbvig.biz
+

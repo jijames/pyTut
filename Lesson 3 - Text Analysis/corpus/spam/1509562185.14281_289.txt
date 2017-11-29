@@ -1,0 +1,21 @@
+Delivered-To: bruceg@untroubled.org
+Received: (fqmail 12233 invoked from network); 01 Nov 2017 04:35:02 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 01 Nov 2017 04:35:02 -0000
+Received: (qmail 19087 invoked from network); 1 Nov 2017 04:35:02 -0000
+Received: from [151.234.16.224] ([151.234.16.224])
+  by mx07.futurequest.net ([69.5.6.178])
+  with ESMTP via TCP; 01 Nov 2017 04:35:01 -0000
+MIME-Version: 1.0
+From: "Lidiya" <Lidiyancvb@metalsantr.com>
+To: bruceg@untroubled.org
+Date: Wed, 01 Nov 2017 08:04:59 +0430
+Subject: hello
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+SGVsbG8gYWdhaW4gLSB5b3UgZ2l2ZSBtZSBhbGwgdGhpcyB0aW1lIGRpZCBub3Qgd3JpdGUsIHlv
+dSBhcmUgZmVkIHVwIHdpdGggbWUgdG8gY29tbXVuaWNhdGUgLSBvciBqdXN0IGVtYWlsIGZvciBh
+IGxvbmcgdGltZT8NCldyaXRlIHRvIG1lISBJJ2QgYmUgaGFwcHkgdG8gdGFsayB0byB5b3UsIHlv
+dXIgTGlkaXlhIGZyb20gUnVzc2lhISBNeSBlbWFpbCBoYW5hcW1iNmFuZ0ByYW1ibGVyLnJ1

@@ -1,0 +1,65 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 15623 invoked from network); 1 Nov 2017 12:48:29 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Nov 2017 12:48:29 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Nov 2017 12:48:29 -0000
+Received: (qmail 18068 invoked from network); 1 Nov 2017 12:48:28 -0000
+Received: from mail-oi0-f65.google.com (209.85.218.65)
+  by zak.futurequest.net with SMTP; 1 Nov 2017 12:48:28 -0000
+Received: by mail-oi0-f65.google.com with SMTP id f66so3697683oib.2
+        for <bruce@bruce-guenter.dyndns.org>; Wed, 01 Nov 2017 05:48:28 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=Lzac6xldrRsbNPsbBfsgQh2zI0a+D7gl1pAEsRlUKKQ=;
+        b=ZV8+cCjkqXS4mCGx3cjezneV9zC9q5JlhicMUaG2WKdIkOrU/c3nIGhRK9g01DzAag
+         b39prrtAC4skmZgurlLx22xaouJJf2o5hXsUAnj7afwfe3QFxdnIP2PA/JAVX931dJjg
+         4vehDD3zEXUPoif++uyTcPxppF270DuqUT5Wpq68hkSlTLPYesjr0Ldd3TTghoiXjrln
+         T8oVDsNhUj8eF+hTttunkyloXt6NCJnqOCffPixdsHY73UgXHUxuhH+H2CHWQ6W70Rio
+         EE8WzJZ92JNvt+HpEaDzJkyxl90othguCQToCjZwItcptY56T2zyYY6zSNiKDHit/Muj
+         ilvw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=Lzac6xldrRsbNPsbBfsgQh2zI0a+D7gl1pAEsRlUKKQ=;
+        b=dFxHh1hZm/7hRYrO/dECXgYktHjFxuZzbchWGJjfRtXNYAFcpVJpQ/csADjWh+IY8x
+         1UQdjgUUkbOh2rkAqMTOPNUjh5//sX50mjaai6jRaqciA60YUDh3sGl3grTaN2Jcb6ma
+         H03kF6JeCnOKjIvAQye4PRF1MbL/jnoQ5psf7vzSJtgU+/3Bwe25brIIo3caXCTxuMZ5
+         bBOmmoo2yd9TBDI7QDy2sPUtBFfkzBd89EF/Rpx7JSgvfBCXKLkxW0/tCDU+ijDNEGW7
+         hfB6svqnyyebA77wp9Wttr8h4FZ3bvXc7EDYyQsQVBB6vKycu5ExIajuy3muzwlayo2i
+         DQWA==
+X-Gm-Message-State: AMCzsaWgF7qWmgV3hHhGXZzngzRQOvK+A8ECdt2AGIk00/rNwNjrDsQc
+	i2qr6tKbXxe/5J2PyGwrryuBjSMIeyDkIZITVbU=
+X-Google-Smtp-Source: ABhQp+Ri6f8xNm67DSpSX9Ovb+U7q1GvsU2L8HPl3NitDEMkKrFTJHUfO6dsuse/xQOmYD4pr5hFPhXc0EoTAEWp+NQ=
+X-Received: by 10.157.13.98 with SMTP id 89mr3021819oti.210.1509540507584;
+ Wed, 01 Nov 2017 05:48:27 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.157.9.206 with HTTP; Wed, 1 Nov 2017 05:48:26 -0700 (PDT)
+From: =?UTF-8?B?5bCP5bed?= <gramcause0227@gmail.com>
+Date: Wed, 1 Nov 2017 21:48:26 +0900
+Message-ID: <CALS9OEdErT8RHqUAVCdqpdkET8zqTqLUsJJF+PzS97mXkJMkng@mail.gmail.com>
+Subject: =?UTF-8?B?44GK55ay44KM44GH44O877yB77yBKMK044O7z4njg7tgOyk=?=
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="001a11353594ba9dfe055ceb49ff"
+Bcc: bruce@bruce-guenter.dyndns.org
+Content-Length: 788
+
+--001a11353594ba9dfe055ceb49ff
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+5LuK44OV44Oq44O844Gu5a2Q44GM44GE44KL44KT44Gg44GR44Gp44CB44Op44Kk44Oz44GX44Gm
+44GC44GS44Gm4pmsDQrjgrPjg6zjga3jgIF5dS1rZGF5bw0KDQrmpJzntKIm6L+95Yqg44GX44Gm
+44GC44GS44Gm44Gt776NKOKJp+KWveKJpu++jSkg44GN44KD44O844O844KT4pmqDQo=
+--001a11353594ba9dfe055ceb49ff
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+PGRpdiBkaXI9Imx0ciI+PGRpdj7ku4rjg5Xjg6rjg7zjga7lrZDjgYzjgYTjgovjgpPjgaDjgZHj
+ganjgIHjg6njgqTjg7PjgZfjgabjgYLjgZLjgabimaw8L2Rpdj48ZGl2PuOCs+ODrOOBreOAgXl1
+LWtkYXlvPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj7mpJzntKImYW1wO+i/veWKoOOBl+OBpuOB
+guOBkuOBpuOBre++jSjiiafilr3iiabvvo0p44CA44GN44KD44O844O844KT4pmqPC9kaXY+PC9k
+aXY+DQo=
+--001a11353594ba9dfe055ceb49ff--

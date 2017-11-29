@@ -1,0 +1,76 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 18470 invoked from network); 01 Nov 2017 13:56:18 -0000
+Received: from mx16.futurequest.net (mx16.futurequest.net [69.5.6.192])
+  by 10.170.1.183 ([10.170.1.183])
+  with FQDP via TCP; 01 Nov 2017 13:56:18 -0000
+Received: (qmail 20652 invoked from network); 1 Nov 2017 13:56:18 -0000
+Received: from dymfa.bid (dymfa.bid [70.36.121.221])
+  by mx16.futurequest.net ([69.5.6.192])
+  with ESMTP via TCP; 01 Nov 2017 13:56:18 -0000
+Date: Wed, 01 Nov 2017 06:43:33 -0700
+Message-ID: <85976151581472-f8f706c3938feec43d1f111ad3c0a047@dymfa.bid>
+Subject: Your Monthly Target $50 Reward Card Inside
+To: <bruce@untroubled.org>
+From: Target Members Giftcard <TargetCyberBonus@dymfa.bid>
+Content-Type: multipart/alternative; boundary="----=_Part_592_8597615.1581472"
+Content-Transfer-Encoding: 8bit
+Mime-Version: 1.0
+Lysol: 8597615-f8f706c3938feec43d1f111ad3c0a047_1581472
+
+
+------=_Part_592_8597615.1581472
+Content-Type: text/plain
+
+Greetings bruce@untroubled.org!
+
+Your latest activity qualifies you for a new Target promotional gift.
+
+*PRINT YOUR $50 VOUCHER* here: http://sacrifice.dymfa.bid/targetbonus
+
+Only until November 2, 2017. (See Details here: http://sacrifice.dymfa.bid/targetbonus
+
+
+
+
+------=_Part_592_8597615.1581472
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=us-ascii
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html;  charset=UTF-8" /> 
+  <title>CVS</title> 
+ </head> 
+ <body style="background-color:#d2d2d2; "> 
+  <br /> 
+  <table style="color:#fff; padding:10px; background-color:#fe2d29; " width="550" align="center"> 
+   <tbody> 
+    <tr> 
+     <td style="text-align:center; padding:5px; "> <a href="http://sacrifice.dymfa.bid/targetbonus" style="text-decoration:none; color:#fff; "> <p style="margin:0; font-size:50px; color:#fff; font-family:helvetica; "> <b><strong>TARGET</strong></b> </p> <p style="margin:0; font-size:20px; color:#fff; font-family:sans-serif; "> </p> </a> </td> 
+     <td style="text-align:center; "> <a href="http://sacrifice.dymfa.bid/targetbonus" style="text-decoration:none; "> 
+       <table style="color:#fff; font-family:helvetica font-size:14px; " align="center"> 
+        <tbody> 
+         <tr> 
+          <td><strong> Clothing |</strong></td> 
+          <td><strong> Household |</strong></td> 
+          <td><strong> Luxury Beauty </strong></td> 
+         </tr> 
+        </tbody> 
+       </table> </a> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <table style="background-color: #fff; color:#fe2d29; " width="550" align="center"> 
+   <tbody>
+    <tr> 
+     <td style="text-align:left; padding:10px; font-family:helvetica"> <p style="font-size:27px; "> Hello bruce@untroubled.org!<br /><br /> Your latest activity qualifies you to a new promotional gift. <a href="http://sacrifice.dymfa.bid/targetbonus" style="text-decoration:none; "> </a></p> <a href="http://sacrifice.dymfa.bid/targetbonus" style="text-decoration:none; "> <p style="text-align:center; margin:10px; background-color:#fe2d29; padding: 10px 20px; color:#FFF; font-size:23px; font-family:helvetica; "> <strong> <i>Print Your $50 Voucher</i> </strong> </p> </a> <p style="text-align:center; margin:0; font-size:13px; font-family:helvetica; "> Only until this Sunday. <a href="http://sacrifice.dymfa.bid/targetbonus">(See Details)</a> </p> </td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <br /> 
+<center><p><br><br><br><br><br><br><br><br><br><br><a href="http://sacrifice.dymfa.bid/deny"><img src="http://sacrifice.dymfa.bid/unsub45" alt="f8f706c3938feec43d1f111ad3c0a047" /></a></p></center>
+<img src="http://sacrifice.dymfa.bid/track87/?email=bruce@untroubled.org&sid=delivs" alt="" /></p>
+</body>
+</html>
+------=_Part_592_8597615.1581472--

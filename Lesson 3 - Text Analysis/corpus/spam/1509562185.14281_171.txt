@@ -1,0 +1,76 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 7474 invoked from network); 31 Oct 2017 19:44:57 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by 10.170.1.196 ([10.170.1.196])
+  with FQDP via TCP; 31 Oct 2017 19:44:57 -0000
+Received: (qmail 25843 invoked from network); 31 Oct 2017 19:44:56 -0000
+Received: from sctqz.stream ([5.79.123.167])
+  by mx06.futurequest.net ([69.5.6.177])
+  with ESMTP via TCP; 31 Oct 2017 19:44:56 -0000
+Date: Tue, 31 Oct 2017 12:40:03 -0700
+From: Target Customer Service <TargetMembers@sctqz.stream>
+Content-Transfer-Encoding: 8bit
+Custodes: 1547331-f8f706c3938feec43d1f111ad3c0a047_2731837
+Message-ID: <f8f706c3938feec43d1f111ad3c0a047.Asleep(p).Denmark.@sctqz.stream>
+Subject: Claim Your Target Award by 10.31.17
+Mime-Version: 1.0
+To: <bruce@untroubled.org>
+Content-Type: multipart/alternative; boundary="----=_Part_592_1547331.2731837"
+
+
+------=_Part_592_1547331.2731837
+Content-Type: text/plain
+
+Greetings bruce@untroubled.org!
+
+Your latest activity qualifies you for a new Target promotional gift.
+
+*PRINT YOUR $50 VOUCHER* here: http://plant.sctqz.stream/customer-service
+
+Only until 11.01.2017. See Details here: http://plant.sctqz.stream/customer-service
+
+
+
+
+------=_Part_592_1547331.2731837
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=us-ascii
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html;  charset=UTF-8" /> 
+  <title>CVS</title> 
+ </head> 
+ <body style="background-color:#d2d2d2; "> 
+  <br /> 
+  <table style="color:#fff; padding:10px; background-color:#fe2d29; " width="550" align="center"> 
+   <tbody> 
+    <tr> 
+     <td style="text-align:center; padding:5px; "> <a href="http://plant.sctqz.stream/customer-service" style="text-decoration:none; color:#fff; "> <p style="margin:0; font-size:50px; color:#fff; font-family:helvetica; "> <b><strong>TARGET</strong></b> </p> <p style="margin:0; font-size:20px; color:#fff; font-family:sans-serif; "> </p> </a> </td> 
+     <td style="text-align:center; "> <a href="http://plant.sctqz.stream/customer-service" style="text-decoration:none; "> 
+       <table style="color:#fff; font-family:helvetica font-size:14px; " align="center"> 
+        <tbody> 
+         <tr> 
+          <td><strong> Clothing |</strong></td> 
+          <td><strong> Household |</strong></td> 
+          <td><strong> Luxury Beauty </strong></td> 
+         </tr> 
+        </tbody> 
+       </table> </a> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <table style="background-color: #fff; color:#fe2d29; " width="550" align="center"> 
+   <tbody>
+    <tr> 
+     <td style="text-align:left; padding:10px; font-family:helvetica"> <p style="font-size:27px; "> Hello bruce@untroubled.org!<br /><br /> Your latest activity qualifies you to a new promotional gift. <a href="http://plant.sctqz.stream/customer-service" style="text-decoration:none; "> </a></p> <a href="http://plant.sctqz.stream/customer-service" style="text-decoration:none; "> <p style="text-align:center; margin:10px; background-color:#fe2d29; padding: 10px 20px; color:#FFF; font-size:23px; font-family:helvetica; "> <strong> <i>Print Your $50 Voucher</i> </strong> </p> </a> <p style="text-align:center; margin:0; font-size:13px; font-family:helvetica; "> Only until this Sunday. <a href="http://plant.sctqz.stream/customer-service">(See Details)</a> </p> </td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <br /> 
+<center><p><br><br><br><br><br><br><br><br><br><br><a href="http://plant.sctqz.stream/quittoday"><img src="http://plant.sctqz.stream/unsubmain22" alt="f8f706c3938feec43d1f111ad3c0a047" /></a></p></center>
+<img src="http://plant.sctqz.stream/pixel55/?email=bruce@untroubled.org&sid=fbgi" alt="" /></p>
+</body>
+</html>
+------=_Part_592_1547331.2731837--

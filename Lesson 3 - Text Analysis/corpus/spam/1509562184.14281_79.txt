@@ -1,0 +1,166 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 30959 invoked from network); 31 Oct 2017 08:59:55 -0000
+Received: from mx09.futurequest.net (mx09.futurequest.net [69.5.6.181])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 31 Oct 2017 08:59:55 -0000
+Received: (qmail 30367 invoked from network); 31 Oct 2017 08:59:55 -0000
+Received: from mta-176-126-254-116.takenes.eu (mta-176-126-254-116.takenes.eu [176.126.254.116])
+  by mx09.futurequest.net ([69.5.6.181])
+  with ESMTP via TCP; 31 Oct 2017 08:59:54 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=selector; d=prodmat.eu;
+ h=Date:To:From:Reply-To:Subject:Message-ID:List-Unsubscribe:List-Id:MIME-Version:Content-Type; i=news@prodmat.eu;
+ bh=91Oatqu0Fsl+fjRBOjEawIkbxZY=;
+ b=rJYF2wsTEjJF1B06SaorAJK832oGTP1Z2Vty+yC/fFtVFQsbjigB4799jakGOlwpXwRx86PiiRkU
+   WIPF36IV6wMZWo7SBF5uXc2LkaA+v7+5BuQDrboTyY0Fx3uzWsEEtg7YJ+Axd1GhJ5XimgxLnt70
+   sl+DTls8OiIn7VrisQ4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=selector; d=prodmat.eu;
+ b=C4eiVLUoxxurNJiRYFXHzGJWBTBVjykBDmdPIFjYVLnX3V1zf3IC0KFJ1Se+UYYDbS60CyrqRa3C
+   pduPEgWcJOYvoIJ3wQrBliwyJLySXixDRbzXLsabwuN1/Ts8+p6XydTuqdlrZU3Qrag7vrJWTtQ5
+   UBfH78ISo20w90wudls=;
+Date: Tue, 31 Oct 2017 08:59:07 +0000
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+From: Bioactivatori <news@prodmat.eu>
+Reply-To: Bioactivatori <news@prodmat.eu>
+Subject: Curatati Fosa Septica cu Bioactivatori!
+Message-ID: <017fe9e9a7905d331bf058a386f48ac1@prodmat.eu>
+X-Mw-Campaign-Uid: zq021s3lbh0e5
+X-Mw-Subscriber-Uid: lo63215w5hbec
+X-Mw-Customer-Uid: dw6570b04a56c
+X-Mw-Customer-Gid: 6
+X-Mw-Delivery-Sid: 664
+X-Mw-Tracking-Did: 51
+List-Unsubscribe: <http://tracking.prodmat.eu/lists/jb958ntmt9a54/unsubscribe/lo63215w5hbec/zq021s3lbh0e5/unsubscribe-direct?source=email-client-unsubscribe-button>
+List-Id: jb958ntmt9a54 <5 Parsat>
+X-Report-Abuse: Please report abuse for this campaign here: http://tracking.prodmat.eu/campaigns/zq021s3lbh0e5/report-abuse/jb958ntmt9a54/lo63215w5hbec
+Feedback-ID: zq021s3lbh0e5:lo63215w5hbec:jb958ntmt9a54:dw6570b04a56c oana-chitila
+Precedence: bulk
+X-Mw-EBS: http://tracking.prodmat.eu/lists/block-address
+X-Sender: bounce@prodmat.eu
+X-Receiver: bruce@untroubled.org
+X-Mw-Mailer: PHPMailer - 5.2.21
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_69c4fea013a4c097e7d540da02094276"
+
+This is a multi-part message in MIME format.
+
+--b1_69c4fea013a4c097e7d540da02094276
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+Pentru vizualizarea corecta a acestui mail, faceti click aici
+http://tracking.prodmat.eu/campaigns/zq021s3lbh0e5/track-url/lo63215w5hbec/=
+b2af7110dfdfe3afe4e8bed75660c1f1857773e5!
+
+
+Pentru dezabonare va rugam sa dati click aici
+http://tracking.prodmat.eu/campaigns/zq021s3lbh0e5/track-url/lo63215w5hbec/=
+aee5de1c076880062141c6561bbc7ba84bc86d1a!
+
+
+--b1_69c4fea013a4c097e7d540da02094276
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head><meta name=3D"charset" content=3D"utf-8">
+=09<style type=3D"text/css">body {
+=09background-image: url(http://maildirect.ro/template/ecobricolaj/camp.jpg=
+);
+=09background-attachment: fixed;
+=09background-repeat: no-repeat;
+=09background-size: cover;
+}
+#apDiv1 {
+=09position: relative;
+=09width: 1000px;
+=09height: 1332px;
+=09z-index: 1;
+=09margin: auto;
+=09background-color: #FFFFFF;
+=09opacity: 0.94;
+}
+#apDiv2 {
+=09position: relative;
+=09width: 1000px;
+=09height: 1332px;
+=09z-index: 1;
+=09margin: auto;
+}
+=09</style>
+=09<title>Ecobricolaj</title>
+</head>
+<body>
+<center>
+<p>Pentru vizualizarea corecta a acestui mail, faceti <a href=3D"http://tra=
+cking.prodmat.eu/campaigns/zq021s3lbh0e5/track-url/lo63215w5hbec/b2af7110df=
+dfe3afe4e8bed75660c1f1857773e5">click aici</a>!</p>
+</center>
+
+<div id=3D"apDiv2"><img alt=3D"index.JPG" border=3D"0" height=3D"1332" src=
+=3D"http://www.ecobricolaj.ro/banner/index.JPG" usemap=3D"#Map" width=3D"10=
+00" /><map id=3D"Map" name=3D"Map"><area coords=3D"879,6,973,242" href=3D"h=
+ttp://tracking.prodmat.eu/campaigns/zq021s3lbh0e5/track-url/lo63215w5hbec/b=
+e375df4fbdda8dcab4296603d3436542ade5738" shape=3D"rect" target=3D"_blank" /=
+><area coords=3D"30,252,493,360" href=3D"http://tracking.prodmat.eu/campaig=
+ns/zq021s3lbh0e5/track-url/lo63215w5hbec/6824ca6871d9a3402fe97bd4983ac7d2d8=
+611584" shape=3D"rect" target=3D"_blank" /><area coords=3D"28,388,493,617" =
+href=3D"http://tracking.prodmat.eu/campaigns/zq021s3lbh0e5/track-url/lo6321=
+5w5hbec/6824ca6871d9a3402fe97bd4983ac7d2d8611584" shape=3D"rect" /><area co=
+ords=3D"789,507,857,521" href=3D"http://tracking.prodmat.eu/campaigns/zq021=
+s3lbh0e5/track-url/lo63215w5hbec/97999c7702f9830a125a12106e5c066a1a620c96" =
+shape=3D"rect" target=3D"_blank" /><area coords=3D"17,2,831,103" href=3D"ht=
+tp://tracking.prodmat.eu/campaigns/zq021s3lbh0e5/track-url/lo63215w5hbec/be=
+375df4fbdda8dcab4296603d3436542ade5738" shape=3D"rect" target=3D"_blank" />=
+<area coords=3D"17,104,830,247" href=3D"http://tracking.prodmat.eu/campaign=
+s/zq021s3lbh0e5/track-url/lo63215w5hbec/be375df4fbdda8dcab4296603d3436542ad=
+e5738" shape=3D"rect" target=3D"_blank" /><area coords=3D"22,647,496,742" h=
+ref=3D"http://tracking.prodmat.eu/campaigns/zq021s3lbh0e5/track-url/lo63215=
+w5hbec/2ef807f28ddc703e0a0d146cdc9c78f14771543e" shape=3D"rect" target=3D"_=
+blank" /><area coords=3D"27,924,495,1049" href=3D"http://tracking.prodmat.e=
+u/campaigns/zq021s3lbh0e5/track-url/lo63215w5hbec/098163eb5ef2eebbfa09b0f8e=
+acc88b9d7c641d9" shape=3D"rect" target=3D"_blank" /><area coords=3D"524,927=
+,985,1053" href=3D"http://tracking.prodmat.eu/campaigns/zq021s3lbh0e5/track=
+-url/lo63215w5hbec/7216d4a184b51f67666f4151cc5f52a434e8b6a7" shape=3D"rect"=
+ target=3D"_blank" /><area coords=3D"28,1065,501,1192" href=3D"http://track=
+ing.prodmat.eu/campaigns/zq021s3lbh0e5/track-url/lo63215w5hbec/0c37720ac2c9=
+a218a185ba3a63398af956a170d0" shape=3D"rect" target=3D"_blank" /><area coor=
+ds=3D"525,1064,986,1193" href=3D"http://tracking.prodmat.eu/campaigns/zq021=
+s3lbh0e5/track-url/lo63215w5hbec/ddb4be7fca7d7fcc63c40e69f9c84efedd999cce" =
+shape=3D"rect" target=3D"_blank" /><area coords=3D"532,255,976,357" href=3D=
+"http://tracking.prodmat.eu/campaigns/zq021s3lbh0e5/track-url/lo63215w5hbec=
+/6824ca6871d9a3402fe97bd4983ac7d2d8611584" shape=3D"rect" target=3D"_blank"=
+ /><br />
+<br />
+<area coords=3D"526,387,979,613" href=3D"http://tracking.prodmat.eu/campaig=
+ns/zq021s3lbh0e5/track-url/lo63215w5hbec/43954e90e0f78fd14d3bdee5cacd3a4e44=
+37ec7b" shape=3D"rect" target=3D"_blank" /><area coords=3D"21,1199,497,1329=
+" href=3D"http://tracking.prodmat.eu/campaigns/zq021s3lbh0e5/track-url/lo63=
+215w5hbec/4476e17c2ff10b771b18f6990bf527df3cdc1e98" shape=3D"rect" target=
+=3D"_blank" /><area alt=3D"Contact" coords=3D"527,648,984,743" href=3D"http=
+://tracking.prodmat.eu/campaigns/zq021s3lbh0e5/track-url/lo63215w5hbec/be37=
+5df4fbdda8dcab4296603d3436542ade5738" shape=3D"rect" target=3D"_blank" /><a=
+rea coords=3D"28,757,981,884" href=3D"http://tracking.prodmat.eu/campaigns/=
+zq021s3lbh0e5/track-url/lo63215w5hbec/037325c82a8056bb3294f2baeac6ae7cf8a99=
+5be" shape=3D"rect" target=3D"_blank" /><area coords=3D"526,1200,990,1310" =
+href=3D"http://tracking.prodmat.eu/campaigns/zq021s3lbh0e5/track-url/lo6321=
+5w5hbec/4476e17c2ff10b771b18f6990bf527df3cdc1e98" shape=3D"rect" target=3D"=
+_blank" /></map></div>
+
+<center>
+<p>Pentru dezabonare va rugam sa dati <a data-unsubtag=3D"_UNSUBSCRIBE_URL_=
+" href=3D"http://tracking.prodmat.eu/campaigns/zq021s3lbh0e5/track-url/lo63=
+215w5hbec/aee5de1c076880062141c6561bbc7ba84bc86d1a">click aici</a>!</p>
+</center>
+<img width=3D"1" height=3D"1" src=3D"http://tracking.prodmat.eu/campaigns/z=
+q021s3lbh0e5/track-opening/lo63215w5hbec" alt=3D"" />=0A</body>
+</html>
+
+
+
+--b1_69c4fea013a4c097e7d540da02094276--
+
